@@ -5,7 +5,7 @@ data_all <- read.csv('data_raw/now_pub_20230818.csv', header = TRUE, sep = "\t",
 age_threshold <- 3 #localities with larger than this time intervals are excluded
 
 by_species <- TRUE
-# FALSE =  by genus
+# FALSE = by genera
 
 ind <- which(data_all[,'ORDER']!='Sirenia')
 data_all <- data_all[ind,]

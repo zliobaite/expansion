@@ -5,7 +5,6 @@ data_sum <- read.csv('data_working/data_sum.csv', header = TRUE, sep = "\t")
 un_orders <- unique(data_sum[,'ORDER'])
 #un_orders <- c('Proboscidea')
 
-do_all_plots <- TRUE
 do_remove_zeros <- FALSE #FALSE means replace with small values, that variant is better 
 #for the analysis such that the number of taxa stays accurate, but it makes mass plots out of scale, 
 #so for better interpertable mass plots change to TRUE
