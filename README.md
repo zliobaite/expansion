@@ -1,4 +1,4 @@
-# Expansion
+# Macroevolutionary Expansion
 
 This is a repository to accompany a research paper, currently under review. 
 
