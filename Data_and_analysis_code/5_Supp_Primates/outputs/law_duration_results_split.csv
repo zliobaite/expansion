@@ -1,0 +1,5 @@
+"Order"	"Nsp"	"InterceptSemilog"	"SlopeSemilog"	"R2Semilog"	"IntereptPlain"	"SlopePlain"	"R2Plain"	"InterceptLoglog"	"SlopeLoglog"	"R2Loglog"	"BestModel"	"R2Best"
+"Primates other"	"462"	"-0.387"	"-0.218"	"0.97"	"0.303"	"-0.048"	"0.71"	"-0.774"	"-0.737"	"0.639"	"exponential"	"0.97"
+"Hominidae not Hominini"	"40"	"-0.307"	"-0.227"	"0.963"	"0.431"	"-0.109"	"0.856"	"-0.645"	"-0.58"	"0.853"	"exponential"	"0.963"
+"Hominini"	"24"	"0.011"	"-0.52"	"0.904"	"0.712"	"-0.328"	"0.967"	"-0.591"	"-0.475"	"0.474"	"linear"	"0.967"
+"Primates"	"526"	"-0.361"	"-0.229"	"0.972"	"0.318"	"-0.053"	"0.7"	"-0.762"	"-0.722"	"0.623"	"exponential"	"0.972"

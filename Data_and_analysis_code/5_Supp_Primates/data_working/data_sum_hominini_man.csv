@@ -1,0 +1,32 @@
+ORDER	FAMILY	SUBFAMILY	GENUS	SPECIES	genusspecies	Martin	Syn	Synsp
+Primates	Hominidae	Hominini	Ardipithecus	kadabba	Ardipithecus kadabba	2004	Ardipithecus ramidus	ramidus
+Primates	Hominidae	Hominini	Ardipithecus	ramidus	Ardipithecus ramidus	1994	Ardipithecus ramidus	ramidus
+Primates	Hominidae	Hominini	Australopithecus	afarensis	Australopithecus afarensis	1978	Australopithecus afarensis	afarensis
+Primates	Hominidae	Hominini	Australopithecus	africanus	Australopithecus africanus	1925	Australopithecus africanus	africanus
+Primates	Hominidae	Hominini	Australopithecus	anamensis	Australopithecus anamensis	1995	Australopithecus afarensis	afarensis
+Primates	Hominidae	Hominini	Australopithecus	bahrelghazali	Australopithecus bahrelghazali	1996		NA
+Primates	Hominidae	Hominini	Australopithecus	garhi	Australopithecus garhi	1999	Australopithecus afarensis	afarensis
+Primates	Hominidae	Hominini	Australopithecus	sediba	Australopithecus sediba	2010	Australopithecus africanus	africanus
+Primates	Hominidae	Hominini	Homo	antecessor	Homo antecessor	1997		NA
+Primates	Hominidae	Hominini	Homo	cepranensis	Homo cepranensis	2003		NA
+Primates	Hominidae	Hominini	Homo	erectus	Homo erectus	1893	Homo erectus	erectus
+Primates	Hominidae	Hominini	Homo	floresiensis	Homo floresiensis	2004	Homo floresiensis	floresiensis
+Primates	Hominidae	Hominini	Homo	habilis	Homo habilis	1964	Homo habilis	habilis
+Primates	Hominidae	Hominini	Homo	heidelbergensis	Homo heidelbergensis	1908	Homo heidelbergensis	heidelbergensis
+Primates	Hominidae	Hominini	Homo	luzonensis	Homo luzonensis	2019		NA
+Primates	Hominidae	Hominini	Homo	neanderthalensis	Homo neanderthalensis	1864	Homo neanderthalensis	neanderthalensis
+Primates	Hominidae	Hominini	Homo	rhodesiensis	Homo rhodesiensis		Homo heidelbergensis	heidelbergensis
+Primates	Hominidae	Hominini	Homo	rudolfensis	Homo rudolfensis	1986	Homo rudolfensis	rudolfensis
+Primates	Hominidae	Hominini	Homo	sapiens	Homo sapiens	1758	Homo sapiens	sapiens
+Primates	Hominidae	Hominini	Kenyanthropus	platyops	Kenyanthropus platyops	2001	Kenyanthropus platyops	platyops
+Primates	Hominidae	Hominini	Orrorin	tugenensis	Orrorin tugenensis	2000		NA
+Primates	Hominidae	Hominini	Paranthropus	aethiopicus	Paranthropus aethiopicus	1967	Paranthropus boisei	boisei
+Primates	Hominidae	Hominini	Paranthropus	boisei	Paranthropus boisei	1959	Paranthropus boisei	boisei
+Primates	Hominidae	Hominini	Paranthropus	robustus	Paranthropus robustus	1938	Paranthropus robustus	robustus
+Primates	Hominidae	Hominini	Sahelanthropus	tchadensis	Sahelanthropus tchadensis	2002		NA
+					Homo ergaster	1975		NA
+					Homo gautengensis	2010		NA
+					Homo naledi	2015	Homo naledi	naledi
+					Australopithecus deyiremeda 	2015		NA
+					Homo longi	2021		NA
+					Homo bodoensis	2022		NA
