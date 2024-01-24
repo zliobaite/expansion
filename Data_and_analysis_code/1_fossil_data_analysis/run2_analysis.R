@@ -2,12 +2,23 @@
 
 data_sum <- read.csv('data_working/data_sum.csv', header = TRUE, sep = "\t")
 
+#ind <- which(data_sum[,'SUBFAMILY']!= 'Hominini')
+ind <- which(data_sum[,'ORDER']== 'Primates')
+#ind <- which(data_sum[,'FAMILY']== 'Hominidae')
+#ind <- which(data_sum[,'SUBFAMILY']== 'Hominini')
+#ind <- intersect(ind,which(data_sum[,'SUBFAMILY']!= 'Hominini'))
+ind <- intersect(ind,which(data_sum[,'FAMILY']!= 'Hominidae'))
+#ind <- which(data_sum[,'GENUS']== 'Homo')
+#data_sum <- data_sum[ind,]
+
+data_sum[ind,'ORDER'] <- 'PrimatesN'
+
 un_orders <- unique(data_sum[,'ORDER'])
-#un_orders <- c('Proboscidea')
+#un_orders <- c('Primates')
 
 do_remove_zeros <- FALSE #FALSE means replace with small values, that variant is better 
 #for the analysis such that the number of taxa stays accurate, but it makes mass plots out of scale, 
-#so for better interpertable mass plots change to TRUE
+#so for better visible mass plots change to TRUE
 
 min_points <- 12
 
