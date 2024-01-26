@@ -1,6 +1,10 @@
 # 2023 03 16 I.Zliobaite
 
-data_sum <- read.csv('data_working/data_sum.csv', header = TRUE, sep = "\t")
+palaeocord <- 'MULLER2022'
+
+file_name <- paste('data_working/data_sum_',palaeocord[1],'.csv',sep='')
+
+data_sum <- read.csv(file_name, header = TRUE, sep = "\t")
 
 data_sum[,'sp_area_square'] <- data_sum[,'sp_pal_area_sq']
 data_sum[,'sp_range_width'] <- sqrt(data_sum[,'sp_pal_area_sq'])

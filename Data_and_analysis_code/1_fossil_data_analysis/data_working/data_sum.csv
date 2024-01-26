@@ -479,7 +479,7 @@
 28134	Pholidota	Manidae		Smutsia	gigantea	Smutsia gigantea	NA	NA	NA	Smutsia gigantea	1	1	0	4.47	4.47	0	0	0	1.8	1.8	30.8	30.8	0
 28135	Artiodactyla	Bovidae	Tragelaphini	Tragelaphus	nkondoensis	Tragelaphus nkondoensis	NA	bra	L2220	Tragelaphus nkondoensis	1	1	0	4.47	4.47	0	0	0	1.8	1.8	30.8	30.8	0
 21140	Artiodactyla	Suidae	Suinae	Potamochoerus	porcus	Potamochoerus porcus	66135	bra	R2200	Potamochoerus porcus	9	3	3.67	3.67	0	0.49863087	0.39142523295	0.70613799642846	5.3	-1.8	36.3	30.6	1.89571428571429
-27346	Perissodactyla	Equidae		Eurygnathohippus	woldegabrieli	Eurygnathohippus woldegabrieli	NA	hyp	NA	Eurygnathohippus woldegabrieli	22	4	4.62	6.08	1.46	1.8715599	1.4691745215	1.36804967015091	11.5	-4	40.6	30.8	2.18
+27346	Perissodactyla	Equidae		Eurygnathohippus	woldegabrieli	Eurygnathohippus woldegabrieli	NA	hyp	NA	Eurygnathohippus woldegabrieli	22	4	4.62	6.08	1.46	1.8715599	1.4691745215	1.3680496701509	11.5	-4	40.6	30.8	2.18
 21136	Perissodactyla	Chalicotheriidae	Schizotheriinae	Ancylotherium	hennigi	Ancylotherium hennigi	2350553	bra	LM211	Ancylotherium hennigi	13	5	3	3.96	0.96	4.01861736	3.1546146276	2.00464893684655	6	-24.2	40	29.2	1.11
 21139	Artiodactyla	Suidae	Tetraconodontinae	Notochoerus	euilus	Notochoerus euilus	432841	mes	R2200	Notochoerus euilus	46	7	3.46	4.75	1.29	10.79763156	8.4761407746	3.28597497860224	16	-24.2	40.7	18.9	2.1825
 21142	Artiodactyla	Giraffidae	Giraffinae	Giraffa	stillei	Giraffa stillei	1004042	bra	L2220	Giraffa stillei	29	4	3.89	4.75	0.86	1.81747071	1.42671450735	1.34813601316781	11.5	-3.4	40.7	30.8	2.564
@@ -610,7 +610,7 @@
 23188	Eulipotyphla	Soricidae		Alloblarinella	europaea	Alloblarinella europaea	NA	NA	NA	Alloblarinella europaea	12	4	9.3	12.02	2.72	2.63952783	2.07202934655	1.62466237415655	51.1	40	19.5	0.2	2.955
 29475	Rodentia	Muridae	Gerbillinae	Protatera	almenarensis	Protatera almenarensis	NA	NA	NA	Protatera almenarensis	2	1	0	6.2	6.2	0.086247	0.067703895	0.29367839552817	40	37.2	0.2	-2.3	0
 31339	Primates	Cercopithecidae	Papionini	Macaca	sylvanus	Macaca sylvanus	NA	bra	L2202	Macaca sylvanus	21	10	5.89	6.2	0.31	10.20856455	8.01372317175	3.19508443550401	52.9	30.2	35.6	-0.9	2.4875
-32193	Eulipotyphla	Erinaceidae		Parasorex	ibericus	Parasorex ibericus	NA	NA	NA	Parasorex ibericus	42	2	4.55	9.4	4.85	0.49604346	0.3893941161	0.704303528317159	43.1	37	2.7	-3.9	1.75
+32193	Eulipotyphla	Erinaceidae		Parasorex	ibericus	Parasorex ibericus	NA	NA	NA	Parasorex ibericus	42	2	4.55	9.4	4.85	0.49604346	0.3893941161	0.70430352831716	43.1	37	2.7	-3.9	1.75
 22300	Artiodactyla	Bovidae	Bovinae	Leptobos	etruscus	Leptobos etruscus	570853	hyp	L2220	Leptobos etruscus	19	5	3.05	4.01	0.96	8.80052067	6.90840872595	2.96656715245079	45.6	36.9	79	-3.1	1.815
 31332	Artiodactyla	Bovidae	Bovinae	Leptobos	furtivus	Leptobos furtivus	322122	hyp	L2220	Leptobos furtivus	6	2	3	3.96	0.96	0.4743585	0.3723714225	0.688736887352492	45.5	42	14.5	3.5	1.36
 22239	Eulipotyphla	Talpidae		Galemys	kormosi	Galemys kormosi	NA	NA	NA	Galemys kormosi	26	5	3.21	4.28	1.07	4.08465792	3.2064564672	2.02105366578921	52	37.2	18.9	-3.5	0.553636363636364
@@ -708,7 +708,7 @@
 31977	Rodentia	Muridae	Myospalacinae	Prosiphneus	qiui	Prosiphneus qiui	NA	NA	NA	Prosiphneus qiui	2	1	1.27	11.62	10.35	0.00542124	0.0042556734	0.0736290703458899	42.4	42	112.7	111.6	0.635
 31979	Carnivora	Ursidae	Hemicyoninae	Plithocyon	teilhardi	Plithocyon teilhardi	NA	NA	NA	Plithocyon teilhardi	5	1	3.17	13.52	10.35	0.81355563	0.63864116955	0.901973186962894	43.6	36.5	112.7	103.4	1.89166666666667
 27806	Artiodactyla	Bovidae		Pelorovis	oldowayensis	Pelorovis oldowayensis	NA	hyp	L2220	Pelorovis oldowayensis	20	7	1.82	2.68	0.86	3.73880745	2.93496384825	1.93359960953658	32.7	-3	43	34.5	0.363333333333333
-25499	Artiodactyla	Bovidae		Ovibos	pallantis	Ovibos pallantis	313000	hyp	L2220	Ovibos pallantis	14	3	2.2	2.2	0	48.50395749	38.07560662965	6.96447826401949	75.3	47.4	160	18.9	0.04
+25499	Artiodactyla	Bovidae		Ovibos	pallantis	Ovibos pallantis	313000	hyp	L2220	Ovibos pallantis	14	3	2.2	2.2	0	48.50395749	38.07560662965	6.9644782640195	75.3	47.4	160	18.9	0.04
 27950	Artiodactyla	Suidae	Suinae	Metridiochoerus	andrewsi	Metridiochoerus andrewsi	199000	hyp	R2200	Metridiochoerus andrewsi	61	6	3	3.96	0.96	13.47523128	10.5780565548	3.67086247086431	11	-33.1	43	18.2	0.215
 27971	Artiodactyla	Bovidae	Antilopini	Antidorcas	recki	Antidorcas recki	19645	bra	L2220	Antidorcas recki	42	6	2.39	3.25	0.86	15.00303528	11.7773826948	3.8733751793494	16	-33.1	43	18.2	0.805
 27996	Artiodactyla	Suidae	Suinae	Metridiochoerus	hopwoodi	Metridiochoerus hopwoodi	191490	hyp	R2200	Metridiochoerus hopwoodi	23	4	1.6	2.46	0.86	1.466199	1.150966215	1.21086704472456	11	-3	43	34.5	0.313333333333333
@@ -803,7 +803,7 @@
 27069	Artiodactyla	Palaeochoeridae	Palaeochoerinae	Palaeochoerus	gergovianus	Palaeochoerus gergovianus	31000	bra	R2200	Palaeochoerus gergovianus	8	3	7.43	28.03	20.6	0.46474812	0.3648272742	0.681724372455613	48.4	44.3	10	0.8	2.225
 27124	Rodentia	Theridomyidae		Theridomys	lembronicus	Theridomys lembronicus	NA	NA	NA	Theridomys lembronicus	4	1	4.12	28.03	23.91	0.28560078	0.2241966123	0.534416298404156	47.8	44	4	-2.1	2.06
 27128	Rodentia	Theridomyidae		Protechimys	gervaisi	Protechimys gervaisi	NA	NA	NA	Protechimys gervaisi	1	1	0	28.03	28.03	0	0	0	45.5	45.5	3.2	3.2	0
-27130	Artiodactyla	Palaeochoeridae	Palaeochoerinae	Doliochoerus	quercyi	Doliochoerus quercyi	48000	bra	R2200	Doliochoerus quercyi	10	2	4.47	28.03	23.56	0.5692302	0.446845707	0.754473458777709	47.8	43.4	8.4	-2.1	1.43833333333334
+27130	Artiodactyla	Palaeochoeridae	Palaeochoerinae	Doliochoerus	quercyi	Doliochoerus quercyi	48000	bra	R2200	Doliochoerus quercyi	10	2	4.47	28.03	23.56	0.5692302	0.446845707	0.75447345877771	47.8	43.4	8.4	-2.1	1.43833333333334
 27131	Artiodactyla	Anthracotheriidae	Anthracotheriinae	Anthracotherium	magnum	Anthracotherium magnum	1305127	bra	R2300	Anthracotherium magnum	9	3	6.84	30.4	23.56	0.60434505	0.47441086425	0.777396327493255	48.4	43.9	8.8	-2.1	1.438
 27152	Artiodactyla	Lophiomerycidae		Lophiomeryx	chalaniati	Lophiomeryx chalaniati	NA	bra	L2200	Lophiomeryx chalaniati	10	2	5.49	29.4	23.91	0.55543068	0.4360130838	0.745272218722797	47.8	43.2	7.7	-2.1	1.6325
 20018	Carnivora	Mustelidae		Proputorius	sansaniensis	Proputorius sansaniensis	6000	NA	NA	Proputorius sansaniensis	4	3	3.93	15.7	11.77	2.23897212	1.7575931142	1.49631952470052	48.1	40.4	23.1	-0.5	3.285
@@ -1311,10 +1311,10 @@
 85011	Cingulata	Dasypodidae	NA	Chaetophractus	villosus	Chaetophractus villosus	NA	NA	NA	Chaetophractus villosus	3	2	3.43	3.9	0.47	1.4871447	1.1674085895	1.21948542426714	-21.5	-38.5	-57.6	-64.7	0.9225
 85019	Cingulata	Dasypodidae	NA	Zaedyus	pichiy	Zaedyus pichiy	NA	NA	NA	Zaedyus pichiy	2	1	3.43	3.9	0.47	0.0258741	0.0203111685	0.160854281882703	-38	-38.5	-57.6	-61.8	1.715
 85035	Rodentia	Muridae	Sigmodontinae	Reithrodon	auritus	Reithrodon auritus	NA	NA	NA	Reithrodon auritus	3	1	5.03	5.5	0.47	0.0517482	0.040622337	0.227482307004303	-38	-39	-57.6	-61.8	2.9725
-85072	Cingulata	Glyptodontidae	NA	Panochthus	tuberculatus	Panochthus tuberculatus	NA	NA	NA	Panochthus tuberculatus	2	2	0.13	0.6	0.47	0.6074253	0.4768288605	0.779374941860463	-21.5	-38.5	-61.8	-64.7	0.0649999999999999
+85072	Cingulata	Glyptodontidae	NA	Panochthus	tuberculatus	Panochthus tuberculatus	NA	NA	NA	Panochthus tuberculatus	2	2	0.13	0.6	0.47	0.6074253	0.4768288605	0.779374941860463	-21.5	-38.5	-61.8	-64.7	0.065
 85078	Pilosa	Mylodontidae	NA	Lestodon	armatus	Lestodon armatus	NA	NA	NA	Lestodon armatus	3	2	0.58	0.6	0.02	0.66841425	0.52470518625	0.817566052377421	-21.5	-39	-61.6	-64.7	0.29
 85090	Rodentia	Caviidae	Hydrochoerinae	Neochoerus	tarijensis	Neochoerus tarijensis	NA	NA	NA	Neochoerus tarijensis	3	2	0.58	0.6	0.02	0.66841425	0.52470518625	0.817566052377421	-21.5	-39	-61.6	-64.7	0.29
-85109	Perissodactyla	Equidae	Equinae	Hippidion	principale	Hippidion principale	NA	NA	NA	Hippidion principale	2	2	0.13	0.6	0.47	0.6074253	0.4768288605	0.779374941860463	-21.5	-38.5	-61.8	-64.7	0.0649999999999999
+85109	Perissodactyla	Equidae	Equinae	Hippidion	principale	Hippidion principale	NA	NA	NA	Hippidion principale	2	2	0.13	0.6	0.47	0.6074253	0.4768288605	0.779374941860463	-21.5	-38.5	-61.8	-64.7	0.065
 86041	Litopterna	Macraucheniidae		Macraucheniopsis	ensenadensis	Macraucheniopsis ensenadensis	NA	NA	NA	Macraucheniopsis ensenadensis	1	1	0	0.47	0.47	0	0	0	-38.5	-38.5	-61.8	-61.8	0
 86042	Rodentia	Muridae	Sigmodontinae	Akodon	iniscatus	Akodon iniscatus	NA	NA	NA	Akodon iniscatus	1	1	0	0.47	0.47	0	0	0	-38.5	-38.5	-61.8	-61.8	0
 86043	Rodentia	Muridae	Sigmodontinae	Akodon	azarae	Akodon azarae	NA	NA	NA	Akodon azarae	1	1	0	0.47	0.47	0	0	0	-38.5	-38.5	-61.8	-61.8	0
@@ -1419,7 +1419,7 @@
 26508	Rodentia	Gliridae		Bransatoglis	parvus	Bransatoglis parvus	NA	NA	NA	Bransatoglis parvus	7	1	4.04	34.44	30.4	0.01638693	0.01286374005	0.128011444800846	41	40.3	-0.8	-2.7	1.3425
 26510	Rodentia	Gliridae		Gliravus	fordi	Gliravus fordi	NA	NA	NA	Gliravus fordi	7	1	2.71	34.44	31.73	0.05519808	0.0433304928	0.234942716422536	41.9	40.3	1.7	-1.1	1.084
 20408	Eulipotyphla	Soricidae		Paenelimnoecus	pannonicus	Paenelimnoecus pannonicus	NA	NA	NA	Paenelimnoecus pannonicus	26	7	5.73	8.75	3.02	4.72682844	3.7105603254	2.17412705240517	51.1	37.2	23.9	-3.7	1.7775
-21228	Rodentia	Muridae	Arvicolinae	Mimomys	polonicus	Mimomys polonicus	NA	hys	NA	Mimomys polonicus	10	6	0.71	3.02	2.31	14.2011846	11.147929911	3.76844591310529	54.5	37.5	65	-2.8	0.355
+21228	Rodentia	Muridae	Arvicolinae	Mimomys	polonicus	Mimomys polonicus	NA	hys	NA	Mimomys polonicus	10	6	0.71	3.02	2.31	14.2011846	11.147929911	3.7684459131053	54.5	37.5	65	-2.8	0.355
 23882	Artiodactyla	Cervidae		Praemegaceros	verticornis	Praemegaceros verticornis	458222	mes	L2220	Praemegaceros verticornis	25	12	1.19	1.59	0.4	11.49845004	9.0262832814	3.39093645472751	52.9	32.7	43.7	-2.5	0.625
 31317	Artiodactyla	Bovidae		Capra	alba	Capra alba	NA	hyp	L2220	Capra alba	4	1	0.25	1.45	1.2	0.01034964	0.0081244674	0.10173318042802	38.3	37.7	-1.1	-2.5	0.186666666666667
 28033	Creodonta	Hyaenodontidae		Megistotherium	osteothlastes	Megistotherium osteothlastes	614000	NA	NA	Megistotherium osteothlastes	3	1	1.6	12.72	11.12	0.00024642	0.0001934397	0.0156977705423414	0.8	0.7	36	35.8	1.06666666666667
@@ -1638,7 +1638,7 @@
 25918	Rodentia	Gliridae		Myomimus	sinensis	Myomimus sinensis	NA	NA	NA	Myomimus sinensis	2	1	1.85	6.2	4.35	0.00098568	0.0007737588	0.0313955410846827	42.1	41.9	114.5	114.1	0.925000000000001
 25919	Rodentia	Dipodidae	Zapodinae	Sicista	wangi	Sicista wangi	NA	NA	NA	Sicista wangi	1	1	0	4.35	4.35	0	0	0	42.1	42.1	114.5	114.5	0
 25920	Rodentia	Dipodidae	Zapodinae	Sinozapus	volkeri	Sinozapus volkeri	NA	NA	NA	Sinozapus volkeri	2	1	0.07	4.35	4.28	0.01552446	0.0121867011	0.124597190979572	43.5	42.1	115.4	114.5	0.0349999999999993
-25921	Rodentia	Dipodidae		Lophocricetus	grabaui	Lophocricetus grabaui	NA	NA	NA	Lophocricetus grabaui	5	2	1.9	6.25	4.35	1.89780363	1.48977584955	1.3776079376949	49.2	41.9	114.5	93.4	0.881250000000001
+25921	Rodentia	Dipodidae		Lophocricetus	grabaui	Lophocricetus grabaui	NA	NA	NA	Lophocricetus grabaui	5	2	1.9	6.25	4.35	1.89780363	1.48977584955	1.3776079376949	49.2	41.9	114.5	93.4	0.88125
 25922	Rodentia	Dipodidae		Lophocricetus	pusillus	Lophocricetus pusillus	NA	NA	NA	Lophocricetus pusillus	2	1	1.85	6.2	4.35	0.00098568	0.0007737588	0.0313955410846827	42.1	41.9	114.5	114.1	0.925000000000001
 25923	Lagomorpha	Leporidae		Trischizolagus	mirificus	Trischizolagus mirificus	NA	NA	NA	Trischizolagus mirificus	1	1	0	4.35	4.35	0	0	0	42.1	42.1	114.5	114.5	0
 25924	Rodentia	Muridae	Murinae	Allorattus	engesseri	Allorattus engesseri	NA	NA	NA	Allorattus engesseri	5	1	2.05	6.25	4.2	0.5864796	0.460386486	0.765819560993319	42.1	35.1	114.5	107.7	0.5
@@ -1808,7 +1808,7 @@
 23649	Carnivora	Canidae	Caninae	Eucyon	monticinensis	Eucyon monticinensis	NA	NA	NA	Eucyon monticinensis	2	1	0	6.2	6.2	0.00911754	0.0071572689	0.0954858104641732	44.7	44.5	11.6	7.9	0
 23655	Rodentia	Muridae	Murinae	Centralomys	benericettii	Centralomys benericettii	NA	mes	NA	Centralomys benericettii	1	1	0	6.2	6.2	0	0	0	44.5	44.5	11.6	11.6	0
 23814	Chiroptera	Hipposideridae		Asellia	mariaetheresae	Asellia mariaetheresae	NA	NA	NA	Asellia mariaetheresae	7	3	9.5	15.7	6.2	1.02190374	0.8021944359	1.01089254621844	45.9	40.1	11.6	-2.7	6.925
-32220	Eulipotyphla	Erinaceidae		Parasorex	depereti	Parasorex depereti	NA	NA	NA	Parasorex depereti	10	3	1.92	6.2	4.28	0.65202732	0.5118414462	0.807482086488611	44.5	40.3	11.6	-1	0.942
+32220	Eulipotyphla	Erinaceidae		Parasorex	depereti	Parasorex depereti	NA	NA	NA	Parasorex depereti	10	3	1.92	6.2	4.28	0.65202732	0.5118414462	0.80748208648861	44.5	40.3	11.6	-1	0.942
 34001	Rodentia	Muridae	Murinae	Stephanomys	debruijni	Stephanomys debruijni	NA	NA	NA	Stephanomys debruijni	1	1	0	6.2	6.2	0	0	0	44.5	44.5	11.6	11.6	0
 23142	Rodentia	Muridae	Eucricetodontinae	Eucricetodon	collatum	Eucricetodon collatum	NA	NA	NA	Eucricetodon collatum	3	2	0.78	23.13	22.35	0.15672312	0.1230276492	0.39588270990282	47.4	45	8.2	2.9	0.390000000000001
 23380	Rodentia	Muridae	Pseudocricetodontinae	Pseudocricetodon	thaleri	Pseudocricetodon thaleri	16	NA	NA	Pseudocricetodon thaleri	26	3	7.97	26.32	18.35	1.16211672	0.9122616252	1.07801517614549	50.8	43.6	11	-2.1	4.08428571428571
@@ -2023,7 +2023,7 @@
 83331	Rodentia	Sciuridae	Pteromyini	Petauristodon	mathewsi	Petauristodon mathewsi	NA	bra	NA	Petauristodon mathewsi	6	1	7.08	16.66	9.58	0.2119212	0.166358142	0.460348998043875	38.6	34.3	-117.5	-121.5	5.09333333333333
 34722	Lagomorpha	Leporidae	Leporinae	Pronotolagus	apachensis	Pronotolagus apachensis	NA	hys	NA	Pronotolagus apachensis	4	1	8.33	16.66	8.33	1.6929054	1.328930739	1.30111698167382	40.8	34.8	-96.7	-119.6	2.775
 81136	Artiodactyla	Merycoidodontidae	Merychyinae	Merychyus	novomexicanus	Merychyus novomexicanus	15900	mes	L2220	Merychyus novomexicanus	25	1	4.1	13.68	9.58	4.06888704	3.1940763264	2.01714824442826	46.6	33.8	-95.7	-121.5	0.911999999999999
-81443	Artiodactyla	Antilocapridae	Merycodontinae	Cosoryx	cerrosensis	Cosoryx cerrosensis	NA	hyp	L2220	Cosoryx cerrosensis	8	1	1.52	11.1	9.58	2.59295445	2.03546924325	1.61026533527863	46.3	34.8	-101.9	-120.2	0.608000000000001
+81443	Artiodactyla	Antilocapridae	Merycodontinae	Cosoryx	cerrosensis	Cosoryx cerrosensis	NA	hyp	L2220	Cosoryx cerrosensis	8	1	1.52	11.1	9.58	2.59295445	2.03546924325	1.61026533527863	46.3	34.8	-101.9	-120.2	0.608
 81895	Perissodactyla	Equidae	Equinae	Cormohipparion	quinni	Cormohipparion quinni	NA	hyp	L2323	Cormohipparion quinni	13	1	2.58	13.68	11.1	7.14149802	5.6060759457	2.67235813842382	42.8	28.2	-81.8	-121.5	2.064
 81898	Perissodactyla	Equidae	Equinae	Heteropliohippus	hulberti	Heteropliohippus hulberti	NA	hyp	L2323	Heteropliohippus hulberti	2	1	1.52	11.1	9.58	0	0	0	34.8	34.8	-119.3	-119.3	0.76
 82325	Perissodactyla	Equidae	Equinae	Pliohippus	tehonense	Pliohippus tehonense	NA	hyp	L2323	Pliohippus tehonense	5	1	5.8	15.38	9.58	0.06554772	0.0514549602	0.256022889601692	38.6	34.8	-117.9	-119.3	3.232
@@ -2625,7 +2625,7 @@
 83734	Eulipotyphla	Geolabdidae	NA	Centetodon	magnus	Centetodon magnus	NA	bra	NA	Centetodon magnus	15	2	12.42	41.3	28.88	2.0551428	1.613287098	1.43357692503751	54.5	40.6	-100	-112	6.59857142857143
 84004	Primates	Omomyidae	Omomyinae	Ekgmowechashala	philotau	Ekgmowechashala philotau	NA	bra	NA	Ekgmowechashala philotau	2	1	0	28.88	28.88	0.0184815	0.0145079775	0.135946680724466	43.1	41.6	-102.3	-103.3	0
 84281	Eulipotyphla	Proscalopidae	NA	Proscalops	tertius	Proscalops tertius	NA	hyp	NA	Proscalops tertius	11	2	15.08	33	17.92	1.5413571	1.2099653235	1.24151403536166	54.5	40.6	-96.7	-105.7	14.455
-80181	Carnivora	Canidae	Hesperocyoninae	Paraenhydrocyon	wallovianus	Paraenhydrocyon wallovianus	16000			Paraenhydrocyon wallovianus	3	1	0.88	18.8	17.92	0.76094496	0.5973417936	0.872321592074849	44.9	41.7	-103.7	-123	0.439999999999998
+80181	Carnivora	Canidae	Hesperocyoninae	Paraenhydrocyon	wallovianus	Paraenhydrocyon wallovianus	16000			Paraenhydrocyon wallovianus	3	1	0.88	18.8	17.92	0.76094496	0.5973417936	0.87232159207485	44.9	41.7	-103.7	-123	0.439999999999998
 80204	Carnivora	Canidae	Caninae	Leptocyon	gregorii	Leptocyon gregorii	NA			Leptocyon gregorii	1	1	0	18.8	18.8	0	0	0	42.4	42.4	-103.7	-103.7	0
 80217	Carnivora	Canidae	Borophaginae	Cynarctoides	acridens	Cynarctoides acridens	1399			Cynarctoides acridens	19	1	3.42	18.8	15.38	1.60000506	1.2560039721	1.26491306420639	43.6	35	-102	-117.1	1.27
 80222	Carnivora	Canidae	Borophaginae	Phlaocyon	annectens	Phlaocyon annectens	1943			Phlaocyon annectens	1	1	0	18.8	18.8	0	0	0	42.4	42.4	-103.7	-103.7	0
@@ -2882,7 +2882,7 @@
 82636	Rodentia	Heteromyidae	Dipodomyinae	Prodipodomys	coquorum	Prodipodomys coquorum	NA	hyp	NA	Prodipodomys coquorum	1	1	0	6.39	6.39	0	0	0	40.8	40.8	-96.7	-96.7	0
 82696	Rodentia	Geomyidae	Geomyinae	Pliogeomys	russelli	Pliogeomys russelli	NA	hyp	NA	Pliogeomys russelli	1	1	0	6.39	6.39	0	0	0	40.8	40.8	-96.7	-96.7	0
 83701	Eulipotyphla	Talpidae	Gaillardiinae	Gaillardia	thompsoni	Gaillardia thompsoni	NA	bra	NA	Gaillardia thompsoni	2	1	0	6.39	6.39	1.30701168	1.0260041688	1.14324611523504	45.6	40.8	-96.7	-118.8	0
-80507	Carnivora	Barbourofelidae		Barbourofelis	whitfordi	Barbourofelis whitfordi	NA			Barbourofelis whitfordi	3	1	3.87	11.1	7.23	0.3597732	0.282421962	0.599810970223119	42.4	35.1	-98.2	-102.2	2.9025
+80507	Carnivora	Barbourofelidae		Barbourofelis	whitfordi	Barbourofelis whitfordi	NA			Barbourofelis whitfordi	3	1	3.87	11.1	7.23	0.3597732	0.282421962	0.59981097022312	42.4	35.1	-98.2	-102.2	2.9025
 81291	Artiodactyla	Camelidae	Camelinae	Aepycamelus	major	Aepycamelus major	1026000	mes	L2220	Aepycamelus major	5	1	5.69	11.1	5.41	2.92475898	2.2959357993	1.71019267335584	42.4	28.1	-81.6	-98.2	4.125
 81449	Artiodactyla	Antilocapridae	Antilocaprinae	Proantilocapra	platycornea	Proantilocapra platycornea	NA	hyp	L2220	Proantilocapra platycornea	1	1	0	11.1	11.1	0	0	0	42.4	42.4	-98.2	-98.2	0
 81809	Perissodactyla	Rhinocerotidae	Aceratheriinae	Aphelops	malacorhinus	Aphelops malacorhinus	NA	mes	L2212	Aphelops malacorhinus	14	1	6.45	13.68	7.23	5.77214208	4.5311315328	2.40252826830404	42.4	29.6	-82.4	-119	1.97833333333333
@@ -3283,7 +3283,7 @@
 84072	Primates	Micromomyidae	NA	Micromomys	silvercouleei	Micromomys silvercouleei	NA	bra	NA	Micromomys silvercouleei	1	1	0	57.95	57.95	0	0	0	44.7	44.7	-107	-107	0
 84095	Primates	Paromomyidae	NA	Phenacolemur	pagei	Phenacolemur pagei	NA	bra	NA	Phenacolemur pagei	6	1	1.94	58.44	56.5	0.4879116	0.383010606	0.698506692881321	46.6	41.1	-104.8	-112	1.11499999999999
 84129	Primates	Plesiadapidae	NA	Plesiadapis	fodinatus	Plesiadapis fodinatus	NA	bra	NA	Plesiadapis fodinatus	6	1	1.65	58.44	56.79	0.65350584	0.5130020844	0.808397080647871	46.8	41.7	-100.8	-111.2	1.405
-84138	Primates	Plesiadapidae	NA	Chiromyoides	potior	Chiromyoides potior	NA	bra	NA	Chiromyoides potior	6	1	1.16	57.95	56.79	1.45030491	1.13848935435	1.20428605821042	44.7	29.8	-103.3	-111.2	0.831666666666671
+84138	Primates	Plesiadapidae	NA	Chiromyoides	potior	Chiromyoides potior	NA	bra	NA	Chiromyoides potior	6	1	1.16	57.95	56.79	1.45030491	1.13848935435	1.20428605821042	44.7	29.8	-103.3	-111.2	0.83166666666667
 84158	Primates	Carpolestidae	NA	Carpolestes	dubius	Carpolestes dubius	NA	bra	NA	Carpolestes dubius	2	1	1.16	57.95	56.79	0.098568	0.07737588	0.313955410846827	44.7	42.2	-107	-110.2	0.580000000000005
 80095	Carnivora	Viverravidae		Didymictis	protenus	Didymictis protenus	NA			Didymictis protenus	22	1	4.76	57.35	52.59	0.65695572	0.5157102402	0.810528050100674	44.7	36.1	-104.8	-111	2.58833333333333
 80571	Taeniodonta	Stylinodontidae		Ectoganus	gliriformis	Ectoganus gliriformis	NA	hys		Ectoganus gliriformis	10	1	4.55	57.14	52.59	0.36026604	0.2828088414	0.600221659056052	44.7	36.1	-104.8	-108.2	2.54714285714285
@@ -3313,7 +3313,7 @@
 84045	Primates	Microsyopidae	Navajoviinae	Navajovius	kohlhaasae	Navajovius kohlhaasae	NA	bra	NA	Navajovius kohlhaasae	5	1	4.11	62.06	57.95	1.15743474	0.9085862709	1.07584141024595	42	29.8	-103.3	-111	0.779999999999994
 84083	Primates	Paromomyidae	NA	Paromomys	depressidens	Paromomys depressidens	NA	bra	NA	Paromomys depressidens	11	1	5.52	64.15	58.63	1.6460856	1.292177196	1.28299867497983	46.6	38.6	-104.8	-121.5	2.41090909090909
 84108	Primates	Palaechthonidae	Plesiolestinae	Plesiolestes	nacimienti	Plesiolestes nacimienti	NA	bra	NA	Plesiolestes nacimienti	4	1	5.03	64.15	59.12	0.34695936	0.2723630976	0.589032562767119	41.1	36.7	-104.8	-111.2	2.46666666666667
-84112	Primates	Palaechthonidae	Plesiolestinae	Torrejonia	sirokyi	Torrejonia sirokyi	NA	bra	NA	Torrejonia sirokyi	7	2	2.94	62.06	59.12	1.68403428	1.3219669098	1.29770346381598	54.5	41.1	-104.8	-115	2.13500000000001
+84112	Primates	Palaechthonidae	Plesiolestinae	Torrejonia	sirokyi	Torrejonia sirokyi	NA	bra	NA	Torrejonia sirokyi	7	2	2.94	62.06	59.12	1.68403428	1.3219669098	1.29770346381598	54.5	41.1	-104.8	-115	2.135
 84117	Primates	Picrodontidae	NA	Picrodus	canacius	Picrodus canacius	NA	bra	NA	Picrodus canacius	5	2	1.45	62.06	60.61	1.68403428	1.3219669098	1.29770346381598	54.5	41.1	-104.8	-115	1.38
 84142	Primates	Plesiadapidae	NA	Nannodectes	simpsoni	Nannodectes simpsoni	NA	bra	NA	Nannodectes simpsoni	3	2	0	59.12	59.12	1.68403428	1.3219669098	1.29770346381598	54.5	41.1	-104.8	-115	0
 80099	Carnivora	Viverravidae		Intyrictis	vanvaleni	Intyrictis vanvaleni	NA			Intyrictis vanvaleni	3	1	0.31	62.37	62.06	0.14489496	0.1137425436	0.380650706028506	41.1	36.2	-104.8	-107.2	0.206666666666663
@@ -3981,7 +3981,7 @@
 83904	Palaeanodonta	Epoicotheriidae	NA	Epoicotherium	unicum	Epoicotherium unicum	NA	bra	NA	Epoicotherium unicum	5	1	1.01	35.58	34.57	0.4213782	0.330781887	0.649136503364277	46.6	42.1	-104.4	-112	1.01
 83911	Pholidota	Manidae	NA	Patriomanis	americanus	Patriomanis americanus	NA	bra	NA	Patriomanis americanus	3	1	0.34	35.31	34.97	0.23064912	0.1810595592	0.480259429891803	46.6	43	-106.8	-112	0.113333333333337
 80062	Creodonta	Hyaenodontidae	Hyaenodontinae	Hyaenodon	megaloides	Hyaenodon megaloides	170000			Hyaenodon megaloides	2	1	0.67	34.97	34.3	0.00443556	0.0034819146	0.0666	43	42.4	-106.2	-106.8	0.335000000000001
-80063	Creodonta	Hyaenodontidae	Hyaenodontinae	Hyaenodon	montanus	Hyaenodon montanus	45000			Hyaenodon montanus	10	1	4.31	38.61	34.3	2.3459184	1.841545944	1.53163912198664	46.6	29.6	-100.8	-112	1.44750000000001
+80063	Creodonta	Hyaenodontidae	Hyaenodontinae	Hyaenodon	montanus	Hyaenodon montanus	45000			Hyaenodon montanus	10	1	4.31	38.61	34.3	2.3459184	1.841545944	1.53163912198664	46.6	29.6	-100.8	-112	1.4475
 80067	Creodonta	Hyaenodontidae	Hyaenodontinae	Hyaenodon	crucians	Hyaenodon crucians	17000			Hyaenodon crucians	21	2	5.61	38.61	33	4.69393137	3.68473612545	2.16654826163647	54.5	29.6	-96.7	-112	2.1675
 80069	Creodonta	Hyaenodontidae	Hyaenodontinae	Hyaenodon	mustelinus	Hyaenodon mustelinus	5000			Hyaenodon mustelinus	3	2	3.66	36.66	33	0.58229046	0.4570980111	0.763079589557996	54.5	40.6	-103.4	-106.8	1.4075
 80072	Creodonta	Hyaenodontidae	Hyaenodontinae	Hemipsalodon	grandis	Hemipsalodon grandis	NA			Hemipsalodon grandis	4	2	9.11	44.08	34.97	2.84171544	2.2307466204	1.68573884098338	54.5	42.1	-104.4	-123	3.005
@@ -4828,7 +4828,7 @@
 32330	Rodentia	Muridae	Cricetinae	Allocricetus	aylasevimae	Allocricetus aylasevimae	NA	NA	NA	Allocricetus aylasevimae	1	1	0	8.25	8.25	0	0	0	40.6	40.6	33.6	33.6	0
 32331	Rodentia	Muridae	Murinae	Hansdebruijnia	erksinae	Hansdebruijnia erksinae	NA	NA	NA	Hansdebruijnia erksinae	1	1	0	8.25	8.25	0	0	0	40.6	40.6	33.6	33.6	0
 32333	Primates	Hominidae	Graecopithecini	Ouranopithecus	turkae	Ouranopithecus turkae	NA	bra	R2200	Ouranopithecus turkae	1	1	0	8.25	8.25	0	0	0	40.6	40.6	33.6	33.6	0
-34042	Artiodactyla	Bovidae	NA	Majoreas	woodwardi	Majoreas woodwardi	NA	mes	L2220	Majoreas woodwardi	3	2	1.8	8.25	6.45	0.22769208	0.1787382828	0.477170912776544	40.6	37.8	33.6	27	0.899999999999999
+34042	Artiodactyla	Bovidae	NA	Majoreas	woodwardi	Majoreas woodwardi	NA	mes	L2220	Majoreas woodwardi	3	2	1.8	8.25	6.45	0.22769208	0.1787382828	0.477170912776544	40.6	37.8	33.6	27	0.9
 86447	Artiodactyla	Bovidae		Qurliqnoria	chorakenis	Qurliqnoria chorakenis	NA	NA	NA	Qurliqnoria chorakenis	1	1	0	8.25	8.25	0	0	0	40.6	40.6	33.6	33.6	0
 86448	Artiodactyla	Bovidae	Antilopinae	Gangraia	anatolica	Gangraia anatolica	NA	NA	NA	Gangraia anatolica	1	1	0	8.25	8.25	0	0	0	40.6	40.6	33.6	33.6	0
 24492	Carnivora	Ursidae	Hemicyoninae	Plithocyon	conquense	Plithocyon conquense	82000	NA	NA	Plithocyon conquense	2	1	1.5	16.8	15.3	0.00049284	0.0003868794	0.0222	40.5	40.1	-2.6	-2.7	0.75
@@ -4864,7 +4864,7 @@
 24543	Artiodactyla	Cainotheriidae		Cainotherium	bavaricum	Cainotherium bavaricum	629	bra	S2300	Cainotherium bavaricum	8	2	3.05	18.35	15.3	0.60915024	0.4781829384	0.780480774907364	49	44.2	11.2	0.9	1.81
 86431	Artiodactyla	Suidae	Tetraconodontinae	Parachleuastochoerus	valentini	Parachleuastochoerus valentini	NA	NA	NA	Parachleuastochoerus valentini	1	1	0	11.17	11.17	0	0	0	41.5	41.5	2	2	0
 24667	Rodentia	Muridae	Cricetinae	Apocricetus	plinii	Apocricetus plinii	NA	NA	NA	Apocricetus plinii	2	1	1.06	7.35	6.29	0	0	0	38.2	38.2	-0.8	-0.8	0.53
-24713	Rodentia	Muridae	Cricetinae	Kowalskia	seseae	Kowalskia seseae	NA	NA	NA	Kowalskia seseae	3	2	1.06	7.35	6.29	0.42778512	0.3358113192	0.654052841901937	43.7	38.1	5.4	-0.8	0.423999999999999
+24713	Rodentia	Muridae	Cricetinae	Kowalskia	seseae	Kowalskia seseae	NA	NA	NA	Kowalskia seseae	3	2	1.06	7.35	6.29	0.42778512	0.3358113192	0.654052841901937	43.7	38.1	5.4	-0.8	0.424
 31815	Rodentia	Muridae	Cricetinae	Cricetulodon	lucentensis	Cricetulodon lucentensis	NA	NA	NA	Cricetulodon lucentensis	2	1	0	7.35	7.35	0	0	0	38.2	38.2	-0.8	-0.8	0
 21355	Artiodactyla	Cervidae		Lucentia	pierensis	Lucentia pierensis	27460	bra	L2220	Lucentia pierensis	4	2	2.88	10.23	7.35	2.75386671	2.16178536735	1.65947784257579	48.7	38.4	20.6	-1.1	1.89
 22625	Rodentia	Hystricidae	Hystricinae	Hystrix	parvae	Hystrix parvae	NA	bra	NA	Hystrix parvae	3	3	0	8.25	8.25	2.106891	1.653909435	1.45151334819904	47.4	38.4	18.5	-0.5	0
@@ -4911,7 +4911,7 @@
 20952	Artiodactyla	Bovidae		Tethytragus	stehlini	Tethytragus stehlini	NA	mes	L2220	Tethytragus stehlini	1	1	0	13.52	13.52	0	0	0	48.8	48.8	16.7	16.7	0
 29943	Artiodactyla	Cervidae	Cervinae	Cervus	canadensis	Cervus canadensis	NA	bra	L2220	Cervus canadensis	10	1	2.06	2.07	0.01	3.78538083	2.97152395155	1.9456055175703	44.7	31.4	123.7	100.6	0.005
 30001	Artiodactyla	Cervidae		Sinomegaceros	ordosianus	Sinomegaceros ordosianus	NA	mes	L2220	Sinomegaceros ordosianus	13	1	0.17	0.18	0.01	3.10834188	2.4400483758	1.76304902938064	46	34.1	129	107.8	0.07
-22092	Carnivora	Mustelidae		Baranogale	helbingi	Baranogale helbingi	NA	NA	NA	Baranogale helbingi	4	2	2.73	5.15	2.42	0.39722904	0.3118247964	0.630261088756081	50.6	40.2	21.6	18.5	0.8325
+22092	Carnivora	Mustelidae		Baranogale	helbingi	Baranogale helbingi	NA	NA	NA	Baranogale helbingi	4	2	2.73	5.15	2.42	0.39722904	0.3118247964	0.63026108875608	50.6	40.2	21.6	18.5	0.8325
 22288	Primates	Cercopithecidae	Papionini	Paradolichopithecus	arvernensis	Paradolichopithecus arvernensis	NA	bra	L2202	Paradolichopithecus arvernensis	7	4	2.13	4.28	2.15	2.4297012	1.907315442	1.55874988372093	46.1	39.3	28.1	-0.9	1.09
 23842	Artiodactyla	Bovidae	Antilopini	Gazella	bouvrainae	Gazella bouvrainae	NA	mes	L2220	Gazella bouvrainae	5	1	0.94	3.14	2.2	0.07528131	0.05909582835	0.274374397493644	40.4	39.1	26.3	21.6	0.29
 25180	Artiodactyla	Cervidae		Eucladoceros	ctenoides	Eucladoceros ctenoides	NA	bra	L2220	Eucladoceros ctenoides	11	5	1.49	3.14	1.65	3.25422252	2.5545646782	1.80394637392579	51.5	39.1	25.3	4	0.605
@@ -4984,10 +4984,10 @@
 21460	Primates	Hominidae	Hominini	Australopithecus	afarensis	Australopithecus afarensis	37000	bra	R2200	Australopithecus afarensis	27	4	1.68	4.47	2.79	5.97617784	4.6912996044	2.44462222848439	11.5	-26.1	40.7	27.8	0.815
 27945	Proboscidea	Elephantidae		Elephas	brumpti	Elephas brumpti	5073942	hyp	LMM0M	Elephas brumpti	17	2	2.04	4.47	2.43	0.46487133	0.36492399405	0.681814732900368	11.5	3.8	40.7	35.8	0.706
 28244	Perissodactyla	Equidae	Equinae	Hipparion	afarense	Hipparion afarense	NA	hyp	L2320	Hipparion afarense	3	1	0.4	3.19	2.79	0	0	0	11.1	10.8	40.5	40.5	0.233333333333333
-28745	Artiodactyla	Bovidae		Trilobophorus	afarensis	Trilobophorus afarensis	NA	NA	L2220	Trilobophorus afarensis	2	1	0.13	3.32	3.19	0	0	0	11.1	11.1	40.5	40.5	0.0649999999999999
+28745	Artiodactyla	Bovidae		Trilobophorus	afarensis	Trilobophorus afarensis	NA	NA	L2220	Trilobophorus afarensis	2	1	0.13	3.32	3.19	0	0	0	11.1	11.1	40.5	40.5	0.065
 82283	Artiodactyla	Bovidae	Bovini	Ugandax	coryndonae	Ugandax coryndonae	NA	NA	NA	Ugandax coryndonae	4	1	0.53	3.32	2.79	0.00049284	0.0003868794	0.0222	11.3	11.1	40.7	40.5	0.3075
-82286	Artiodactyla	Bovidae	Aepycerotini	Aepyceros	datoadeni	Aepyceros datoadeni	NA	NA	NA	Aepyceros datoadeni	2	1	0.13	3.32	3.19	0	0	0	11.1	11.1	40.5	40.5	0.0649999999999999
-82287	Artiodactyla	Bovidae	Caprinae	Budorcas	churcheri	Budorcas churcheri	NA	NA	NA	Budorcas churcheri	2	1	0.13	3.32	3.19	0	0	0	11.1	11.1	40.5	40.5	0.0649999999999999
+82286	Artiodactyla	Bovidae	Aepycerotini	Aepyceros	datoadeni	Aepyceros datoadeni	NA	NA	NA	Aepyceros datoadeni	2	1	0.13	3.32	3.19	0	0	0	11.1	11.1	40.5	40.5	0.065
+82287	Artiodactyla	Bovidae	Caprinae	Budorcas	churcheri	Budorcas churcheri	NA	NA	NA	Budorcas churcheri	2	1	0.13	3.32	3.19	0	0	0	11.1	11.1	40.5	40.5	0.065
 82288	Artiodactyla	Bovidae	NA	Damalborea	grayi	Damalborea grayi	NA	NA	NA	Damalborea grayi	2	1	0.4	3.19	2.79	0	0	0	11.1	11.1	40.5	40.5	0.2
 31510	Carnivora	Ailuridae		Alopecocyon	goeriachensis	Alopecocyon goeriachensis	NA	NA	NA	Alopecocyon goeriachensis	7	2	3.28	15.3	12.02	2.0834811	1.6355326635	1.4434268599413	47.5	45.6	89	0	1.86875
 25495	Artiodactyla	Cervidae		Capreolus	pygargus	Capreolus pygargus	40000	bra	L2220	Capreolus pygargus	4	2	0.08	0.09	0.01	4.2433524	3.331031634	2.05993990203598	53.6	48	113.5	52	0.0225
@@ -5172,7 +5172,7 @@
 23997	Rodentia	Muridae	Gerbillinae	Meriones	unguiculatus	Meriones unguiculatus	NA	NA	NA	Meriones unguiculatus	2	1	0.3	0.39	0.09	0.09659664	0.0758283624	0.3108	53.6	52	109.9	105	0.15
 25656	Rodentia	Muridae	Arvicolinae	Microtus	brandti	Microtus brandti	NA	NA	NA	Microtus brandti	4	2	0.44	0.45	0.01	2.46617136	1.9359445176	1.57040483952387	53.6	39.7	124.3	109.9	0.122
 20703	Rodentia	Muridae	Gerbillinae	Pseudomeriones	pythagorasi	Pseudomeriones pythagorasi	21	NA	NA	Pseudomeriones pythagorasi	6	2	1.15	7.35	6.2	0.26650323	0.20920503555	0.516239508367967	39.9	37.8	37.3	27	0.616666666666666
-20820	Rodentia	Sciuridae	Pteromyini	Hylopetes	macedoniensis	Hylopetes macedoniensis	NA	NA	NA	Hylopetes macedoniensis	2	2	1.3	7.35	6.05	0.2328669	0.1828005165	0.482562845648108	41.3	39.9	37.3	23.8	0.649999999999999
+20820	Rodentia	Sciuridae	Pteromyini	Hylopetes	macedoniensis	Hylopetes macedoniensis	NA	NA	NA	Hylopetes macedoniensis	2	2	1.3	7.35	6.05	0.2328669	0.1828005165	0.482562845648108	41.3	39.9	37.3	23.8	0.65
 20983	Artiodactyla	Bovidae		Oioceros	wegneri	Oioceros wegneri	60000	mes	L2220	Oioceros wegneri	7	2	1.55	8	6.45	0.33315984	0.2615304744	0.5772	39.9	37.3	37.3	26.9	1.0575
 28674	Rodentia	Eomyidae		Keramidomys	tuioliensis	Keramidomys tuioliensis	NA	NA	NA	Keramidomys tuioliensis	1	1	0	7.35	7.35	0	0	0	39.9	39.9	37.3	37.3	0
 25459	Artiodactyla	Bovidae		Poephagus	baikalensis	Poephagus baikalensis	525000	hyp	L2220	Poephagus baikalensis	8	1	0.44	0.45	0.01	7.03726236	5.5242509526	2.65278388867243	56	42.9	133.1	89.5	0.045
@@ -5218,7 +5218,7 @@
 26427	Artiodactyla	Dacrytheriidae		Dacrytherium	ovinum	Dacrytherium ovinum	13548	bra	NA	Dacrytherium ovinum	5	3	1.98	38.75	36.77	0.31603365	0.24808641525	0.562168702437267	46.7	42.2	6.7	1	0.478571428571428
 26428	Artiodactyla	Dacrytheriidae		Leptotheridium	lugeoni	Leptotheridium lugeoni	3656	NA	NA	Leptotheridium lugeoni	6	3	1.98	38.75	36.77	0.31603365	0.24808641525	0.562168702437267	46.7	42.2	6.7	1	0.8675
 26443	Perissodactyla	Anchilophidae		Anchilophus	dumasi	Anchilophus dumasi	NA	NA	NA	Anchilophus dumasi	6	3	1.73	38.75	37.02	0.3104892	0.243734022	0.557215577671694	46.7	42.2	6.6	1	0.987777777777772
-26777	Perissodactyla	Anchilophidae		Anchilophus	desmaresti	Anchilophus desmaresti	NA	bra	NA	Anchilophus desmaresti	3	2	3.48	42.23	38.75	0.1367631	0.1073590335	0.369814953726861	47.3	44.3	7.8	4.1	1.73999999999999
+26777	Perissodactyla	Anchilophidae		Anchilophus	desmaresti	Anchilophus desmaresti	NA	bra	NA	Anchilophus desmaresti	3	2	3.48	42.23	38.75	0.1367631	0.1073590335	0.36981495372686	47.3	44.3	7.8	4.1	1.74
 26811	Rodentia	Ischyromyidae		Plesiarctomys	huerzeleri	Plesiarctomys huerzeleri	NA	NA	NA	Plesiarctomys huerzeleri	3	2	0	38.75	38.75	0.073926	0.05803191	0.271893361448933	46.7	44.3	6.6	4.1	0
 26822	Carnivora	Miacidae		Simamphicyon	helveticus	Simamphicyon helveticus	28000	NA	NA	Simamphicyon helveticus	4	2	0	38.75	38.75	0.073926	0.05803191	0.271893361448933	46.7	44.3	6.6	4.1	0
 26826	Perissodactyla	Palaeotheriidae		Leptolophus	stehlini	Leptolophus stehlini	34628	NA	NA	Leptolophus stehlini	2	2	0	38.75	38.75	0.073926	0.05803191	0.271893361448933	46.7	44.3	6.6	4.1	0
@@ -5265,8 +5265,8 @@
 85268	Rodentia	Theridomyidae	Columbomyinae	Paradelomys	ruetimeyeri	Paradelomys ruetimeyeri	NA	NA	NA	Paradelomys ruetimeyeri	3	1	4.27	38.75	34.48	0.00665334	0.0052228719	0.0815680084346798	47.3	46.7	7.4	6.5	1.43
 26313	Rodentia	Pseudosciuridae		Sciuroides	siderolithicus	Sciuroides siderolithicus	47	NA	NA	Sciuroides siderolithicus	3	2	1.83	40.58	38.75	0.55740204	0.4375606014	0.74659362440353	46.7	41.5	6.6	-2.1	0.731999999999999
 26688	Didelphimorphia	Didelphidae		Amphiperatherium	goethei	Amphiperatherium goethei	NA	NA	NA	Amphiperatherium goethei	3	2	8.08	46.83	38.75	0.30038598	0.2358029943	0.548074794165906	51.3	46.7	11.9	6.6	3.38
-26782	Perissodactyla	Lophiodontidae	Chasmotheriinae	Chasmotherium	cartieri	Chasmotherium cartieri	NA	NA	NA	Chasmotherium cartieri	3	2	3.48	42.23	38.75	0.1367631	0.1073590335	0.369814953726861	47.3	44.3	7.8	4.1	1.73999999999999
-26783	Perissodactyla	Lophiodontidae		Lophiodon	tapiroides	Lophiodon tapiroides	NA	NA	NA	Lophiodon tapiroides	2	1	3.48	42.23	38.75	0.00887112	0.0069638292	0.0941866232540481	47.3	46.7	7.8	6.6	1.73999999999999
+26782	Perissodactyla	Lophiodontidae	Chasmotheriinae	Chasmotherium	cartieri	Chasmotherium cartieri	NA	NA	NA	Chasmotherium cartieri	3	2	3.48	42.23	38.75	0.1367631	0.1073590335	0.36981495372686	47.3	44.3	7.8	4.1	1.74
+26783	Perissodactyla	Lophiodontidae		Lophiodon	tapiroides	Lophiodon tapiroides	NA	NA	NA	Lophiodon tapiroides	2	1	3.48	42.23	38.75	0.00887112	0.0069638292	0.0941866232540481	47.3	46.7	7.8	6.6	1.74
 26804	Perissodactyla	Palaeotheriidae	Pachynolophinae	Pachynolophus	livinierensis	Pachynolophus livinierensis	NA	NA	NA	Pachynolophus livinierensis	3	2	1.83	40.58	38.75	0.1675656	0.131538996	0.409347773903804	46.7	43.3	6.6	2.6	0.731999999999999
 26812	Rodentia	Ischyromyidae		Ailuravus	stehlinschaubi	Ailuravus stehlinschaubi	518	NA	NA	Ailuravus stehlinschaubi	2	2	0	38.75	38.75	0.073926	0.05803191	0.271893361448933	46.7	44.3	6.6	4.1	0
 26821	Carnivora	Miacidae		Quercygale	angustidens	Quercygale angustidens	6863	NA	NA	Quercygale angustidens	4	2	1.98	38.75	36.77	0.0800865	0.0628679025	0.2829955830044	46.7	44.2	6.7	4.1	1.188
@@ -5295,7 +5295,7 @@
 26776	Perissodactyla	Anchilophidae		Anchilophus	depereti	Anchilophus depereti	NA	NA	NA	Anchilophus depereti	1	1	0	42.23	42.23	0	0	0	47.3	47.3	7.8	7.8	0
 26778	Perissodactyla	Palaeotheriidae		Plagiolophus	cartieri	Plagiolophus cartieri	NA	bra	NA	Plagiolophus cartieri	1	1	0	42.23	42.23	0	0	0	47.3	47.3	7.8	7.8	0
 26779	Perissodactyla	Palaeotheriidae		Palaeotherium	eocaenum	Palaeotherium eocaenum	NA	NA	NA	Palaeotherium eocaenum	1	1	0	42.23	42.23	0	0	0	47.3	47.3	7.8	7.8	0
-26780	Perissodactyla	Palaeotheriidae		Palaeotherium	ruetimeyeri	Palaeotherium ruetimeyeri	NA	bra	NA	Palaeotherium ruetimeyeri	2	2	3.48	42.23	38.75	0.1367631	0.1073590335	0.369814953726861	47.3	44.3	7.8	4.1	1.73999999999999
+26780	Perissodactyla	Palaeotheriidae		Palaeotherium	ruetimeyeri	Palaeotherium ruetimeyeri	NA	bra	NA	Palaeotherium ruetimeyeri	2	2	3.48	42.23	38.75	0.1367631	0.1073590335	0.36981495372686	47.3	44.3	7.8	4.1	1.74
 26784	Artiodactyla	Dichobunidae		Hyperdichobune	nobilis	Hyperdichobune nobilis	NA	NA	NA	Hyperdichobune nobilis	1	1	0	42.23	42.23	0	0	0	47.3	47.3	7.8	7.8	0
 26785	Artiodactyla	Dichobunidae		Meniscodon	europaeum	Meniscodon europaeum	NA	NA	NA	Meniscodon europaeum	1	1	0	42.23	42.23	0	0	0	47.3	47.3	7.8	7.8	0
 26787	Artiodactyla	Haplobunodontidae		Haplobunodon	muelleri	Haplobunodon muelleri	NA	NA	NA	Haplobunodon muelleri	3	2	3.28	45.51	42.23	0.2020644	0.158620554	0.449515739435228	51.3	47.3	11.9	7.8	1.71333333333334
@@ -5341,7 +5341,7 @@
 24554	Rodentia	Sciuridae	Sciurinae	Dehmisciurus	obtusidens	Dehmisciurus obtusidens	NA	NA	NA	Dehmisciurus obtusidens	5	3	5.55	22.35	16.8	4.02354576	3.1584834216	2.00587780285839	48.9	38.5	33.4	2	2.725
 29360	Carnivora	Amphicyonidae		Ictiocyon	dehmi	Ictiocyon dehmi	NA	NA	NA	Ictiocyon dehmi	1	1	0	16.8	16.8	0	0	0	41.5	41.5	2	2	0
 25538	Rodentia	Hystricidae	Hystricinae	Hystrix	cristata	Hystrix cristata	17500	NA	NA	Hystrix cristata	20	7	3.72	3.75	0.03	40.37246712	31.6923866892	6.35393320078202	45.8	-28	36.4	-8	0.355
-28107	Artiodactyla	Bovidae	Alcelaphini	Alcelaphus	buselaphus	Alcelaphus buselaphus	135000	hyp	L2220	Alcelaphus buselaphus	6	4	1.3	1.3	0	12.4750125	9.7928848125	3.53199837202681	36.6	-3.9	35.9	10.9	0.7175
+28107	Artiodactyla	Bovidae	Alcelaphini	Alcelaphus	buselaphus	Alcelaphus buselaphus	135000	hyp	L2220	Alcelaphus buselaphus	6	4	1.3	1.3	0	12.4750125	9.7928848125	3.5319983720268	36.6	-3.9	35.9	10.9	0.7175
 32089	Artiodactyla	Bovidae	Antilopini	Gazella	atlantica	Gazella atlantica	NA	NA	L2220	Gazella atlantica	6	2	0.84	1.29	0.45	1.28076795	1.00540284075	1.13171018816656	36.6	31.1	10.9	-8	0.255
 85148	Carnivora	Canidae	Caninae	Canis	primaevus	Canis primaevus	NA	NA	NA	Canis primaevus	1	1	0	1.81	1.81	0	0	0	36.7	36.7	5.7	5.7	0
 21317	Artiodactyla	Giraffidae		Decennatherium	pachecoi	Decennatherium pachecoi	900000	bra	L2220	Decennatherium pachecoi	6	1	1.77	11.17	9.4	0.03363633	0.02640451905	0.183402099224627	41.1	40.4	-1	-4.9	1.092
@@ -6293,7 +6293,7 @@
 31591	Carnivora	Mustelidae		Sinictis	dolicognathus	Sinictis dolicognathus	NA	NA	NA	Sinictis dolicognathus	3	1	5.45	9.4	3.95	0.34153812	0.2681074242	0.584412628200315	39	35.4	111.2	103.5	1.28
 31614	Carnivora	Mustelidae		Melodon	majori	Melodon majori	8708	NA	NA	Melodon majori	2	1	2.36	9.4	7.04	0.28646325	0.22487365125	0.535222617235109	39	35.9	111.2	103.7	1.18
 32006	Carnivora	Mephitidae		Promephitis	parvus	Promephitis parvus	NA	NA	NA	Promephitis parvus	2	1	1.15	9.4	8.25	0.0961038	0.075441483	0.31000612897167	37.1	35.9	103.7	97.2	0.574999999999999
-32010	Artiodactyla	Bovidae		Lantiantragus	longirostralis	Lantiantragus longirostralis	NA	mes	L2220	Lantiantragus longirostralis	3	1	1.71	9.78	8.07	0.11729592	0.0920772972	0.342484919376022	35.9	34.2	109.3	103.7	0.874000000000001
+32010	Artiodactyla	Bovidae		Lantiantragus	longirostralis	Lantiantragus longirostralis	NA	mes	L2220	Lantiantragus longirostralis	3	1	1.71	9.78	8.07	0.11729592	0.0920772972	0.342484919376022	35.9	34.2	109.3	103.7	0.874
 21647	Carnivora	Amphicyonidae	Amphicyoninae	Amphicyon	tairumensis	Amphicyon tairumensis	99108	NA	NA	Amphicyon tairumensis	3	1	1.5	13.52	12.02	0.87245001	0.68487325785	0.934050325196667	43.8	36.5	113.1	103.4	0.75
 21652	Carnivora	Percrocutidae		Percrocuta	tungurensis	Percrocuta tungurensis	134654	NA	NA	Percrocuta tungurensis	5	1	1.5	13.52	12.02	0.87245001	0.68487325785	0.934050325196667	43.8	36.5	113.1	103.4	0.75
 21669	Artiodactyla	Giraffidae		Palaeotragus	tungurensis	Palaeotragus tungurensis	273378	bra	L2220	Palaeotragus tungurensis	4	2	5.02	13.52	8.5	6.7617648	5.307985368	2.60033936246791	43.5	36.5	112.7	34.3	3.015
@@ -6394,7 +6394,7 @@
 22374	Rodentia	Muridae	Cricetinae	Cricetus	runtonensis	Cricetus runtonensis	NA	NA	NA	Cricetus runtonensis	7	4	2.49	3.02	0.53	1.14733152	0.9006552432	1.07113562166516	52.9	48.1	20.6	1.2	0.54
 23922	Rodentia	Muridae	Arvicolinae	Microtus	arvalinus	Microtus arvalinus	NA	NA	NA	Microtus arvalinus	9	5	0.25	0.78	0.53	1.12318236	0.8816981526	1.05980298169047	52.9	47.6	18.4	1.2	0.0549999999999999
 23929	Carnivora	Canidae	Caninae	Vulpes	angustidens	Vulpes angustidens	NA	NA	NA	Vulpes angustidens	4	2	0.38	0.78	0.4	0.0689976	0.054163116	0.262673942369623	50.1	48.1	16.9	14.1	0.2675
-31312	Eulipotyphla	Soricidae		Neomys	anomalus	Neomys anomalus	NA	NA	NA	Neomys anomalus	2	2	0.48	0.6	0.12	0.1367631	0.1073590335	0.369814953726861	51.8	48.1	16.9	13.9	0.24
+31312	Eulipotyphla	Soricidae		Neomys	anomalus	Neomys anomalus	NA	NA	NA	Neomys anomalus	2	2	0.48	0.6	0.12	0.1367631	0.1073590335	0.36981495372686	51.8	48.1	16.9	13.9	0.24
 32264	Perissodactyla	Chalicotheriidae		Huanghotherium	anlungensis	Huanghotherium anlungensis	NA	NA	NA	Huanghotherium anlungensis	1	1	0	6.25	6.25	0	0	0	36.5	36.5	111.7	111.7	0
 23523	Rodentia	Muridae	Megacricetodontinae	Megacricetodon	sinensis	Megacricetodon sinensis	17	NA	NA	Megacricetodon sinensis	15	1	4.95	16.8	11.85	5.00922576	3.9322422216	2.23812996941643	46.4	33.2	118.3	87.5	1.3225
 23953	Perissodactyla	Equidae	Equinae	Hipparion	malustense	Hipparion malustense	NA	hyp	L2320	Hipparion malustense	2	1	1.26	4.28	3.02	0.0061605	0.0048359925	0.0784888527117068	46.1	45.9	28.1	25.6	0.63
@@ -6529,7 +6529,7 @@
 33602	Rodentia	Muridae	Arvicolinae	Mimomys	gansunicus	Mimomys gansunicus	NA	NA	NA	Mimomys gansunicus	2	1	0.02	2.2	2.18	0.87454458	0.6865174953	0.935170882780254	39.4	35.5	121.7	103.5	0.0100000000000002
 33603	Carnivora	Felidae		Sivapanthera	linxiaensis	Sivapanthera linxiaensis	55417	NA	NA	Sivapanthera linxiaensis	2	1	0.02	2.2	2.18	0.87454458	0.6865174953	0.935170882780254	39.4	35.5	121.7	103.5	0.0100000000000002
 33605	Perissodactyla	Equidae	Equinae	Equus	eisenmannae	Equus eisenmannae	667124	hyp	L2320	Equus eisenmannae	2	1	0.02	2.2	2.18	0.87454458	0.6865174953	0.935170882780254	39.4	35.5	121.7	103.5	0.0100000000000002
-33614	Perissodactyla	Equidae	Equinae	Equus	teilhardi	Equus teilhardi	NA	hyp	L2320	Equus teilhardi	3	1	0.11	2.18	2.07	0.08316675	0.06528589875	0.288386459460218	40.3	39.4	121.7	114.2	0.0649999999999999
+33614	Perissodactyla	Equidae	Equinae	Equus	teilhardi	Equus teilhardi	NA	hyp	L2320	Equus teilhardi	3	1	0.11	2.18	2.07	0.08316675	0.06528589875	0.288386459460218	40.3	39.4	121.7	114.2	0.065
 33668	Carnivora	Canidae	Caninae	Canis	teilhardi	Canis teilhardi	NA	NA	NA	Canis teilhardi	2	1	0.02	2.2	2.18	0.87454458	0.6865174953	0.935170882780254	39.4	35.5	121.7	103.5	0.0100000000000002
 33672	Carnivora	Canidae		Xenocyon	dubius	Xenocyon dubius	NA	NA	NA	Xenocyon dubius	13	1	1.59	2.2	0.61	3.363633	2.640451905	1.83402099224627	39.7	24.7	121.7	103.5	0.905
 33677	Lagomorpha	Leporidae		Sericolagus	brachypus	Sericolagus brachypus	423	NA	NA	Sericolagus brachypus	2	1	0.02	2.2	2.18	0.87454458	0.6865174953	0.935170882780254	39.4	35.5	121.7	103.5	0.0100000000000002
@@ -6658,13 +6658,13 @@
 85942	Artiodactyla	Palaeomerycidae		Palaeomeryx	minoensis	Palaeomeryx minoensis	NA	NA	NA	Palaeomeryx minoensis	1	1	0	18.03	18.03	0	0	0	35.4	35.4	137.1	137.1	0
 32900	Pholidota	Manidae		Phataginus	giganteus	Phataginus giganteus	NA	hyp	LMM0M	Phataginus giganteus	1	1	0	1.08	1.08	0	0	0	-0.3	-0.3	34.5	34.5	0
 32443	Lagomorpha	Leporidae		Pliosiwalagus	whitei	Pliosiwalagus whitei	NA	NA	NA	Pliosiwalagus whitei	3	1	0	3.09	3.09	0.00591408	0.0046425528	0.0769030558560582	32	30.8	77.2	76.8	0
-27833	Proboscidea	Elephantidae	Stegotetrabelodontinae	Stegotetrabelodon	orbus	Stegotetrabelodon orbus	5685073	bra	LMM0M	Stegotetrabelodon orbus	9	3	2.35	6.99	4.64	4.3542414	3.418079499	2.08668191155241	14.7	-3.9	36.1	17.1	0.408333333333334
+27833	Proboscidea	Elephantidae	Stegotetrabelodontinae	Stegotetrabelodon	orbus	Stegotetrabelodon orbus	5685073	bra	LMM0M	Stegotetrabelodon orbus	9	3	2.35	6.99	4.64	4.3542414	3.418079499	2.0866819115524	14.7	-3.9	36.1	17.1	0.408333333333334
 33880	Carnivora	Canidae	Caninae	Eucyon	intrepidus	Eucyon intrepidus	NA	NA	NA	Eucyon intrepidus	3	1	0.06	6.14	6.08	0.00258741	0.00203111685	0.0508665902140098	0.8	-1.3	36	35.9	0.04
 28517	Rodentia	Muridae	Cricetodontinae	Cricetodon	pasalarensis	Cricetodon pasalarensis	NA	NA	NA	Cricetodon pasalarensis	3	1	1.78	15.3	13.52	0.05864796	0.0460386486	0.242173408944913	40.7	39	30	27.2	1.78
 21561	Perissodactyla	Equidae	Equinae	Hipparion	parvum	Hipparion parvum	NA	hyp	L2320	Hipparion parvum	5	4	1.85	6.25	4.4	7.75717839	6.08938503615	2.785171159911	50.3	33.6	105.1	67.4	1.2625
 22793	Artiodactyla	Cervidae		Eostyloceros	propria	Eostyloceros propria	NA	bra	L2220	Eostyloceros propria	1	1	0	6.2	6.2	0	0	0	50.3	50.3	79.2	79.2	0
 22794	Artiodactyla	Cervidae		Pliocervus	karabastuzicus	Pliocervus karabastuzicus	NA	mes	L2220	Pliocervus karabastuzicus	1	1	0	6.2	6.2	0	0	0	50.3	50.3	79.2	79.2	0
-20191	Carnivora	Felidae	Machairodontinae	Amphimachairodus	romeri	Amphimachairodus romeri	NA	NA	NA	Amphimachairodus romeri	2	1	1.8	8.25	6.45	0	0	0	39.9	39.9	33.2	33.2	0.899999999999999
+20191	Carnivora	Felidae	Machairodontinae	Amphimachairodus	romeri	Amphimachairodus romeri	NA	NA	NA	Amphimachairodus romeri	2	1	1.8	8.25	6.45	0	0	0	39.9	39.9	33.2	33.2	0.9
 28443	Artiodactyla	Bovidae	Antilopini	Gazella	eleanorae	Gazella eleanorae	NA	NA	L2220	Gazella eleanorae	1	1	0	8.25	8.25	0	0	0	39.9	39.9	33.2	33.2	0
 23337	Eulipotyphla	Talpidae		Desmana	gureevi	Desmana gureevi	NA	NA	NA	Desmana gureevi	2	1	0	0.78	0.78	0.0172494	0.013540779	0.131336971184811	47	46.6	34.4	30.9	0
 28685	Artiodactyla	Bovidae		Protoryx	laticeps	Protoryx laticeps	NA	bra	L2220	Protoryx laticeps	2	2	5.72	8	2.28	0.04940721	0.03878465985	0.222277326778959	38.5	38.4	69.2	29.1	2.86
@@ -6728,7 +6728,7 @@
 32709	Rodentia	Muridae	Spalacinae	Debruijnia	arpati	Debruijnia arpati	NA	NA	NA	Debruijnia arpati	2	1	0	18.35	18.35	0.14637348	0.1149031818	0.382587872259433	40.7	38.5	32.7	27.3	0
 32713	Rodentia	Muridae	Myocricetodontinae	Vallaris	zappai	Vallaris zappai	NA	NA	NA	Vallaris zappai	2	1	0	18.35	18.35	0.14637348	0.1149031818	0.382587872259433	40.7	38.5	32.7	27.3	0
 34815	Rodentia	Muridae	Eumyarioninae	Mirrabella	crenulata	Mirrabella crenulata	NA	NA	NA	Mirrabella crenulata	1	1	0	18.35	18.35	0	0	0	40.7	40.7	32.7	32.7	0
-31917	Rodentia	Muridae	Murinae	Castillomys	magnus	Castillomys magnus	NA	NA	NA	Castillomys magnus	2	1	1.2	5.15	3.95	0.0197136	0.015475176	0.140405128111476	41	40.5	25	21.8	0.600000000000001
+31917	Rodentia	Muridae	Murinae	Castillomys	magnus	Castillomys magnus	NA	NA	NA	Castillomys magnus	2	1	1.2	5.15	3.95	0.0197136	0.015475176	0.140405128111476	41	40.5	25	21.8	0.6
 84355	Carnivora	Odobenidae	NA	Valenictus	imperialensis	Valenictus imperialensis	NA	NA	NA	Valenictus imperialensis	2	1	1.82	6.29	4.47	0.24715926	0.1940200191	0.497151144019603	35.9	32.5	-114.1	-120	0.91
 24241	Proboscidea	Gomphotheriidae		Anancus	alexeevae	Anancus alexeevae	NA	bra	RMM00	Anancus alexeevae	2	1	0	2.46	2.46	0.00024642	0.0001934397	0.0156977705423414	47.3	47.2	39.6	39.4	0
 25668	Artiodactyla	Camelidae		Paracamelus	alutensis	Paracamelus alutensis	NA	NA	L2220	Paracamelus alutensis	4	3	1.17	2.72	1.55	1.25477064	0.9849949524	1.12016545206501	47.3	40.6	39.4	24.2	0.91
@@ -7187,7 +7187,7 @@
 31575	Artiodactyla	Bovidae	Antilopini	Gazella	nihensis	Gazella nihensis	NA	NA	L2220	Gazella nihensis	3	1	0.4	4.35	3.95	0.12407247	0.09739688895	0.352239222688218	37	35.1	113	107.7	0.136666666666667
 29794	Artiodactyla	Cervidae	Muntiacinae	Muntiacus	leilaoensis	Muntiacus leilaoensis	NA	NA	L2220	Muntiacus leilaoensis	1	1	0	8.25	8.25	0	0	0	25.8	25.8	101.7	101.7	0
 32114	Artiodactyla	Suidae		Molarochoerus	yuanmouensis	Molarochoerus yuanmouensis	NA	bra	R2200	Molarochoerus yuanmouensis	1	1	0	8	8	0	0	0	25.9	25.9	101.7	101.7	0
-21754	Rodentia	Muridae	Rhizomyinae	Brachyrhizomys	tetracharax	Brachyrhizomys tetracharax	NA	NA	NA	Brachyrhizomys tetracharax	3	1	0.9	8.25	7.35	0.00431235	0.00338519475	0.0656684855924057	25.8	25.3	102.4	101.7	0.600000000000001
+21754	Rodentia	Muridae	Rhizomyinae	Brachyrhizomys	tetracharax	Brachyrhizomys tetracharax	NA	NA	NA	Brachyrhizomys tetracharax	3	1	0.9	8.25	7.35	0.00431235	0.00338519475	0.0656684855924057	25.8	25.3	102.4	101.7	0.6
 23455	Rodentia	Muridae	Cricetinae	Kowalskia	hanae	Kowalskia hanae	NA	NA	NA	Kowalskia hanae	5	1	0.9	8.25	7.35	0.00431235	0.00338519475	0.0656684855924057	25.8	25.3	102.4	101.7	0.720000000000001
 23472	Rodentia	Muridae	Murinae	Progonomys	yunnanensis	Progonomys yunnanensis	NA	NA	NA	Progonomys yunnanensis	6	1	0.9	8.25	7.35	0.00431235	0.00338519475	0.0656684855924057	25.8	25.3	102.4	101.7	0.75
 23474	Rodentia	Muridae	Platacanthomyinae	Platacanthomys	dianensis	Platacanthomys dianensis	NA	NA	NA	Platacanthomys dianensis	5	1	0.9	8.25	7.35	0.00431235	0.00338519475	0.0656684855924057	25.8	25.3	102.4	101.7	0.720000000000001
@@ -7196,11 +7196,11 @@
 24517	Eulipotyphla	Soricidae		Anourosorex	oblongus	Anourosorex oblongus	NA	NA	NA	Anourosorex oblongus	4	1	0.9	8.25	7.35	0.00431235	0.00338519475	0.0656684855924057	25.8	25.3	102.4	101.7	0.675000000000001
 29722	Rodentia	Muridae	Rhizomyinae	Brachyrhizomys	blacki	Brachyrhizomys blacki	NA	NA	NA	Brachyrhizomys blacki	2	1	0	8.25	8.25	0	0	0	25.8	25.8	101.7	101.7	0
 32236	Rodentia	Eomyidae		Plesieomys	mirabilis	Plesieomys mirabilis	NA	NA	NA	Plesieomys mirabilis	5	1	0.9	8.25	7.35	0.00431235	0.00338519475	0.0656684855924057	25.8	25.3	102.4	101.7	0.720000000000001
-24516	Eulipotyphla	Heterosoricidae		Heterosorex	wangi	Heterosorex wangi	NA	NA	NA	Heterosorex wangi	3	1	0.9	8.25	7.35	0.00431235	0.00338519475	0.0656684855924057	25.8	25.3	102.4	101.7	0.600000000000001
+24516	Eulipotyphla	Heterosoricidae		Heterosorex	wangi	Heterosorex wangi	NA	NA	NA	Heterosorex wangi	3	1	0.9	8.25	7.35	0.00431235	0.00338519475	0.0656684855924057	25.8	25.3	102.4	101.7	0.6
 29726	Eulipotyphla	Erinaceidae		Hylomys	suillus	Hylomys suillus	NA	NA	NA	Hylomys suillus	5	2	7.29	8.25	0.96	4.0067892	3.145329522	2.00169658040373	30.9	3.8	113.7	101.7	3.84166666666667
-32237	Rodentia	Eomyidae		Heteroeomys	yunnanensis	Heteroeomys yunnanensis	NA	NA	NA	Heteroeomys yunnanensis	3	1	0.9	8.25	7.35	0.00431235	0.00338519475	0.0656684855924057	25.8	25.3	102.4	101.7	0.600000000000001
-24515	Eulipotyphla	Talpidae		Yunoscaptor	scalprum	Yunoscaptor scalprum	NA	NA	NA	Yunoscaptor scalprum	3	1	0.9	8.25	7.35	0.00431235	0.00338519475	0.0656684855924057	25.8	25.3	102.4	101.7	0.600000000000001
-29729	Scandentia	Tupaiidae	Tupaiinae	Prodendrogale	yunnanica	Prodendrogale yunnanica	NA	NA	NA	Prodendrogale yunnanica	3	1	0.9	8.25	7.35	0.00431235	0.00338519475	0.0656684855924057	25.8	25.3	102.4	101.7	0.600000000000001
+32237	Rodentia	Eomyidae		Heteroeomys	yunnanensis	Heteroeomys yunnanensis	NA	NA	NA	Heteroeomys yunnanensis	3	1	0.9	8.25	7.35	0.00431235	0.00338519475	0.0656684855924057	25.8	25.3	102.4	101.7	0.6
+24515	Eulipotyphla	Talpidae		Yunoscaptor	scalprum	Yunoscaptor scalprum	NA	NA	NA	Yunoscaptor scalprum	3	1	0.9	8.25	7.35	0.00431235	0.00338519475	0.0656684855924057	25.8	25.3	102.4	101.7	0.6
+29729	Scandentia	Tupaiidae	Tupaiinae	Prodendrogale	yunnanica	Prodendrogale yunnanica	NA	NA	NA	Prodendrogale yunnanica	3	1	0.9	8.25	7.35	0.00431235	0.00338519475	0.0656684855924057	25.8	25.3	102.4	101.7	0.6
 32605	Artiodactyla	Cervidae		Euprox	robustus	Euprox robustus	NA	bra	L2220	Euprox robustus	2	1	0	8.25	8.25	0.00012321	9.671985e-05	0.0111	25.8	25.7	101.8	101.7	0
 84392	Carnivora	Phocidae	NA	Neomonachus	tropicalis	Neomonachus tropicalis	NA	NA	NA	Neomonachus tropicalis	1	1	0	3.09	3.09	0	0	0	27.8	27.8	-81.9	-81.9	0
 27829	Carnivora	Felidae		Lokotunjailurus	emageritus	Lokotunjailurus emageritus	179613	NA	NA	Lokotunjailurus emageritus	3	1	1.07	6.99	5.92	0.00517482	0.0040622337	0.0719362217523273	2.9	-1.3	36.1	36	0.41
@@ -7658,7 +7658,7 @@
 33421	Carnivora	Mustelidae		Gulo	schlosseri	Gulo schlosseri	NA	NA	NA	Gulo schlosseri	1	1	0	0.6	0.6	0	0	0	50.1	50.1	8.3	8.3	0
 25877	Perissodactyla	Chalicotheriidae	Schizotheriinae	Chemositia	tugenensis	Chemositia tugenensis	NA	NA	LM211	Chemositia tugenensis	1	1	0	6.45	6.45	0	0	0	1	1	35.9	35.9	0
 20144	Carnivora	Mustelidae	Lutrinae	Enhydriodon	latipes	Enhydriodon latipes	NA	NA	NA	Enhydriodon latipes	2	2	0.02	7.35	7.33	1.29924945	1.01991081825	1.13984623963059	43.7	38	23.9	5.4	0.00999999999999979
-24411	Eulipotyphla	Talpidae		Archaeodesmana	pontica	Archaeodesmana pontica	NA	NA	NA	Archaeodesmana pontica	2	2	0.9	7.35	6.45	0.52450497	0.41173640145	0.724227153592021	47	43.7	18.3	5.4	0.45
+24411	Eulipotyphla	Talpidae		Archaeodesmana	pontica	Archaeodesmana pontica	NA	NA	NA	Archaeodesmana pontica	2	2	0.9	7.35	6.45	0.52450497	0.41173640145	0.72422715359202	47	43.7	18.3	5.4	0.45
 24787	Rodentia	Muridae	Murinae	Stephanomys	stadii	Stephanomys stadii	NA	NA	NA	Stephanomys stadii	1	1	0	7.35	7.35	0	0	0	43.7	43.7	5.4	5.4	0
 85103	Carnivora	Ursidae	NA	Arctotherium	wingei	Arctotherium wingei	NA	NA	NA	Arctotherium wingei	2	2	0.58	0.6	0.02	1.9516464	1.532042424	1.39701338576264	11.5	-21.5	-64.7	-69.5	0.29
 82356	Artiodactyla	Bovidae	Antilopini	Gazella	tingitana	Gazella tingitana	NA	NA	NA	Gazella tingitana	1	1	0	0.06	0.06	0	0	0	35.7	35.7	-5.9	-5.9	0
@@ -7864,7 +7864,7 @@
 83320	Rodentia	Sciuridae	Sciurinae	Marmota	minor	Marmota minor	NA	mes	NA	Marmota minor	1	1	0	8.33	8.33	0	0	0	41.9	41.9	-118.8	-118.8	0
 83715	Eulipotyphla	Talpidae	Talpinae	Scapanus	proceridens	Scapanus proceridens	NA	bra	NA	Scapanus proceridens	5	1	1.94	8.33	6.39	0.24161481	0.18966762585	0.491543294125757	45.6	41.9	-117.7	-123	0.97
 82639	Rodentia	Heteromyidae	Dipodomyinae	Prodipodomys	minor	Prodipodomys minor	NA	hyp	NA	Prodipodomys minor	7	2	3.2	5.41	2.21	1.4883768	1.168375788	1.21999049176623	43.6	28.5	-108.2	-116.2	2.38
-82695	Rodentia	Geomyidae	Geomyinae	Pliogeomys	parvus	Pliogeomys parvus	NA	hyp	NA	Pliogeomys parvus	2	1	0	3.77	3.77	0.0961038	0.075441483	0.310006128971671	43.6	37.6	-114.9	-116.2	0
+82695	Rodentia	Geomyidae	Geomyinae	Pliogeomys	parvus	Pliogeomys parvus	NA	hyp	NA	Pliogeomys parvus	2	1	0	3.77	3.77	0.0961038	0.075441483	0.31000612897167	43.6	37.6	-114.9	-116.2	0
 83122	Rodentia	Muridae	Neotominae	Repomys	panacaenensis	Repomys panacaenensis	NA	hyp	NA	Repomys panacaenensis	3	1	0	3.77	3.77	0.3289707	0.2582419995	0.573559674314713	37.6	34.6	-106	-114.9	0
 83227	Rodentia	Muridae	Arvicolinae	Ophiomys	panacaensis	Ophiomys panacaensis	NA	hyp	NA	Ophiomys panacaensis	1	1	0	3.77	3.77	0	0	0	37.6	37.6	-114.9	-114.9	0
 83037	Lagomorpha	Leporidae	Leporinae	Pronotolagus	nevadensis	Pronotolagus nevadensis	NA	hys	NA	Pronotolagus nevadensis	1	1	0	5.89	5.89	0	0	0	38.7	38.7	-119.4	-119.4	0
@@ -7879,7 +7879,7 @@
 81985	Artiodactyla	Bovidae	Ovibovini	Euceratherium	collinum	Euceratherium collinum	NA	mes	L2220	Euceratherium collinum	1	1	0	1.35	1.35	0	0	0	39.2	39.2	-119.8	-119.8	0
 81384	Artiodactyla	Dromomerycidae	Aletomerycinae	Aletomeryx	occidentalis	Aletomeryx occidentalis	NA	mes	L2220	Aletomeryx occidentalis	1	1	0	17.92	17.92	0	0	0	35	35	-117.7	-117.7	0
 81433	Artiodactyla	Antilocapridae	Merycodontinae	Meryceros	joraki	Meryceros joraki	NA	hyp	L2220	Meryceros joraki	5	1	2.98	16.66	13.68	0.00061605	0.00048359925	0.0248203545502477	35.1	35	-116.6	-117.1	2.08
-81973	Artiodactyla	Camelidae	Miolabinae	Paramiolabis	minutus	Paramiolabis minutus	NA	mes	L2220	Paramiolabis minutus	3	1	1.28	16.66	15.38	0.1367631	0.1073590335	0.369814953726861	36	35	-106	-117.1	0.426666666666666
+81973	Artiodactyla	Camelidae	Miolabinae	Paramiolabis	minutus	Paramiolabis minutus	NA	mes	L2220	Paramiolabis minutus	3	1	1.28	16.66	15.38	0.1367631	0.1073590335	0.36981495372686	36	35	-106	-117.1	0.426666666666666
 81013	Artiodactyla	Tayassuidae	Tayassuinae	Dyseohyus	fricki	Dyseohyus fricki	NA	bra	R2M00	Dyseohyus fricki	2	1	1.7	15.38	13.68	0.00049284	0.0003868794	0.0222	35.1	35	-116.6	-117	0.850000000000001
 81261	Artiodactyla	Camelidae	Protolabinae	Protolabis	barstowensis	Protolabis barstowensis	NA	mes	L2220	Protolabis barstowensis	3	1	1.7	15.38	13.68	0.00061605	0.00048359925	0.0248203545502477	35.1	35	-116.6	-117.1	1.36
 82536	Rodentia	Geomyoidea	NA	Mojavemys	alexandrae	Mojavemys alexandrae	NA	mes	NA	Mojavemys alexandrae	1	1	0	15.38	15.38	0	0	0	35.1	35.1	-116.6	-116.6	0
@@ -8231,7 +8231,7 @@
 83837	Eulipotyphla	Soricidae	Soricinae	Crusafontina	minima	Crusafontina minima	NA	bra	NA	Crusafontina minima	1	1	0	9.58	9.58	0	0	0	43.8	43.8	-118.1	-118.1	0
 84240	Rodentia	Castoridae	Castoroidinae	Eucastor	malheurensis	Eucastor malheurensis	NA	hyp	NA	Eucastor malheurensis	1	1	0	9.58	9.58	0	0	0	43.8	43.8	-118.1	-118.1	0
 83849	Eulipotyphla	Soricidae	Soricinae	Paracryptotis	gidleyi	Paracryptotis gidleyi	NA	bra	NA	Paracryptotis gidleyi	1	1	0	8.33	8.33	0	0	0	42.8	42.8	-117.7	-117.7	0
-82468	Rodentia	Mylagaulidae	Mylagaulinae	Hesperogaulus	wilsoni	Hesperogaulus wilsoni	NA	hyp	NA	Hesperogaulus wilsoni	2	1	0.84	7.23	6.39	0.00936396	0.0073507086	0.0967675565466029	45.6	43.7	-118.4	-118.8	0.420000000000001
+82468	Rodentia	Mylagaulidae	Mylagaulinae	Hesperogaulus	wilsoni	Hesperogaulus wilsoni	NA	hyp	NA	Hesperogaulus wilsoni	2	1	0.84	7.23	6.39	0.00936396	0.0073507086	0.096767556546603	45.6	43.7	-118.4	-118.8	0.420000000000001
 83311	Rodentia	Sciuridae	Sciurinae	Spermophilus	wilsoni	Spermophilus wilsoni	NA	mes	NA	Spermophilus wilsoni	4	1	1.34	7.23	5.89	0.22855455	0.17941532175	0.478073791375348	47	43.5	-117.6	-122.9	0.670000000000001
 84200	Rodentia	Castoridae	Castorinae	Hystricops	browni	Hystricops browni	NA	mes	NA	Hystricops browni	1	1	0	7.23	7.23	0	0	0	43.7	43.7	-118.4	-118.4	0
 81029	Artiodactyla	Tayassuidae	Tayassuinae	Platygonus	oregonensis	Platygonus oregonensis	NA	bra	L2202	Platygonus oregonensis	2	1	1.1	8.33	7.23	0.01626372	0.0127670202	0.127529290753144	44.9	44.5	-119.7	-123	0.55
@@ -8967,7 +8967,7 @@
 32250	Rodentia	Sciuridae		Oriensciurus	linquensis	Oriensciurus linquensis	NA	NA	NA	Oriensciurus linquensis	1	1	0	16.1	16.1	0	0	0	32	32	116.5	116.5	0
 32284	Perissodactyla	Rhinocerotidae	Teleoceratini	Brachypotherium	shanwangensis	Brachypotherium shanwangensis	NA	bra	L2212	Brachypotherium shanwangensis	1	1	0	16.1	16.1	0	0	0	32	32	116.5	116.5	0
 33707	Carnivora	Ursidae	Hemicyoninae	Phoberocyon	youngi	Phoberocyon youngi	NA	NA	NA	Phoberocyon youngi	1	1	0	16.1	16.1	0	0	0	32	32	116.5	116.5	0
-34008	Perissodactyla	Rhinocerotidae	Rhinocerotinae	Plesiaceratherium	shanwangensis	Plesiaceratherium shanwangensis	NA	bra	L2212	Plesiaceratherium shanwangensis	2	1	0.7	16.8	16.1	0.1367631	0.1073590335	0.369814953726861	33.5	32	116.5	109.1	0.350000000000001
+34008	Perissodactyla	Rhinocerotidae	Rhinocerotinae	Plesiaceratherium	shanwangensis	Plesiaceratherium shanwangensis	NA	bra	L2212	Plesiaceratherium shanwangensis	2	1	0.7	16.8	16.1	0.1367631	0.1073590335	0.36981495372686	33.5	32	116.5	109.1	0.350000000000001
 84347	Carnivora	Odobenidae	NA	Neotherium	mirum	Neotherium mirum	NA	NA	NA	Neotherium mirum	1	1	0	14.89	14.89	0	0	0	35.3	35.3	-118.5	-118.5	0
 32108	Primates	Galagidae	Galaginae	Galago	farafraensis	Galago farafraensis	NA	bra		Galago farafraensis	1	1	0	10.55	10.55	0	0	0	28	28	28.2	28.2	0
 34408	Rodentia	Muridae	Lophiomyinae	Faraframys	heissigi	Faraframys heissigi	NA	NA	NA	Faraframys heissigi	1	1	0	10.55	10.55	0	0	0	28	28	28.2	28.2	0

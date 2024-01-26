@@ -5,10 +5,11 @@
 data_cities <- read.csv('coords_cities.csv', header = TRUE, sep = '\t')
 
 meths_all <- c('SETON2012','MERDITH2021','MULLER2016','MULLER2019','MULLER2022','MATTHEWS2016_mantle_ref','MATTHEWS2016_pmag_ref','PALEOMAP')
+meths_names <- c('SET12','MER21','MUL16','MUL19','MUL22','MAT16m','MAT16p','PAL')
 
 all_years <- c(0:50)
 
-city_now <- 'Helsinki'
+city_now <- 'Berlin'
 
 ind_city <- which(data_cities[,1]==city_now)
 
@@ -63,8 +64,10 @@ for (sk in 1:length(all_years)){
   
   plot_name <- paste('plots/',city_now,'/plot_',city_now,'_',year_now,'.pdf',sep = '')
   pdf(plot_name,height = 4, width = 3.5)
-  plot(NA,NA,xlim = c(data_cities[ind_city,'Long']-10,data_cities[ind_city,'Long']+10),ylim = c(data_cities[ind_city,'Lat']-10,data_cities[ind_city,'Lat']+10), xlab = 'Long now',ylab = 'Lat now', main = paste(city_now,year_now,'Ma'))
+  plot(NA,NA,xlim = c(data_cities[ind_city,'Long']-8,data_cities[ind_city,'Long']+8),ylim = c(data_cities[ind_city,'Lat']-8,data_cities[ind_city,'Lat']+8), xlab = 'Long now',ylab = 'Lat now', main = paste(city_now,year_now,'Ma'))
   points(data_now,pch = 16)
   points(data_cities[ind_city,'Long'],data_cities[ind_city,'Lat'],pch = 16, col='red')
+  text(data_now,meths_names,pos = 4, cex = 0.4)
+  text(data_cities[ind_city,'Long'],data_cities[ind_city,'Lat'],city_now,pos = 4, cex = 0.4, col='red')
   dev.off()
 }

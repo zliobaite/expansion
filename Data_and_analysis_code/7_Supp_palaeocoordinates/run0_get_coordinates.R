@@ -7,7 +7,7 @@ data_all <- read.csv('data_raw/now_pub_20230818.csv', header = TRUE, sep = "\t",
 #palaeocord <- c('PALEOMAP','SETON2012','MULLER2016','MULLER2022','MATTHEWS2016_mantle_ref')
 #palaeocord <- c('MULLER2022','MATTHEWS2016_mantle_ref')
 #palaeocord <- c('MULLER2019','MATTHEWS2016_pmag_ref','MERDITH2021')
-palaeocord <- c('MULLER2016')
+palaeocord <- c('MULLER2022','MERDITH2021')
 
 #"SETON2012" (Seton et al., 2012) for coastlines and topological plate polygons (0-200 Ma).
 #"MULLER2016" (Muller et al., 2016) for coastlines and topological plate polygons (0-230Ma).

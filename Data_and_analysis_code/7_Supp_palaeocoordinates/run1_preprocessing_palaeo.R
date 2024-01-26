@@ -2,7 +2,7 @@
 
 data_all <- read.csv('data_raw/now_pub_20230818.csv', header = TRUE, sep = "\t", na.string = '\\N')
 
-palaeocord <- 'MULLER2016'
+palaeocord <- 'MULLER2022'
 
 file_name <- paste('data_working/data_cords_',palaeocord[1],'.csv',sep='')
 
@@ -117,7 +117,9 @@ for (sk in 1:length(un_sp)){
 
 colnames(data_sum) <- c('SIDNUM','ORDER','FAMILY','SUBFAMILY','GENUS','SPECIES','genusspecies','BODYMASS','TCRWNHT','CROWNTYP','sp_now','no_loc','no_countries','sp_duration','max_mid_age','min_mid_age','sp_area_square','sp_area_el','sp_range_width','max_lat','min_lat','max_long','min_long','duration_peak','sp_pal_area_sq')
 
-write.table(data_sum, file = "data_working/data_sum.csv",col.names = TRUE,row.names = FALSE, sep = '\t')   
+file_name <- paste('data_working/data_sum_',palaeocord[1],'.csv',sep='')
+
+write.table(data_sum, file = file_name,col.names = TRUE,row.names = FALSE, sep = '\t')   
 
 plot_name <- paste('plots/plot_dist_',palaeocord,'.pdf',sep = '')
 pdf(plot_name,height = 6,width = 6)

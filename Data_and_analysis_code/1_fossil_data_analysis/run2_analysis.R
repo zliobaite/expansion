@@ -2,17 +2,6 @@
 
 data_sum <- read.csv('data_working/data_sum.csv', header = TRUE, sep = "\t")
 
-#ind <- which(data_sum[,'SUBFAMILY']!= 'Hominini')
-ind <- which(data_sum[,'ORDER']== 'Primates')
-#ind <- which(data_sum[,'FAMILY']== 'Hominidae')
-#ind <- which(data_sum[,'SUBFAMILY']== 'Hominini')
-#ind <- intersect(ind,which(data_sum[,'SUBFAMILY']!= 'Hominini'))
-ind <- intersect(ind,which(data_sum[,'FAMILY']!= 'Hominidae'))
-#ind <- which(data_sum[,'GENUS']== 'Homo')
-#data_sum <- data_sum[ind,]
-
-data_sum[ind,'ORDER'] <- 'PrimatesN'
-
 un_orders <- unique(data_sum[,'ORDER'])
 #un_orders <- c('Primates')
 
