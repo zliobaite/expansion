@@ -2,7 +2,8 @@
 
 data_all <- read.csv('data_raw/now_pub_20230818.csv', header = TRUE, sep = "\t", na.string = '\\N')
 
-palaeocord <- 'MULLER2022'
+palaeocord <- 'MERDITH2021'
+  #'MULLER2022'
 
 file_name <- paste('data_working/data_cords_',palaeocord[1],'.csv',sep='')
 
@@ -17,6 +18,12 @@ age_threshold <- 3 #localities with larger than this time intervals are excluded
 
 by_species <- TRUE
 # FALSE = by genera
+
+if (by_species){
+  sp <- 'species'
+}else{
+  sp <- 'genera'
+}
 
 ind <- which(data_all[,'ORDER']!='Sirenia')
 data_all <- data_all[ind,]
@@ -117,7 +124,7 @@ for (sk in 1:length(un_sp)){
 
 colnames(data_sum) <- c('SIDNUM','ORDER','FAMILY','SUBFAMILY','GENUS','SPECIES','genusspecies','BODYMASS','TCRWNHT','CROWNTYP','sp_now','no_loc','no_countries','sp_duration','max_mid_age','min_mid_age','sp_area_square','sp_area_el','sp_range_width','max_lat','min_lat','max_long','min_long','duration_peak','sp_pal_area_sq')
 
-file_name <- paste('data_working/data_sum_',palaeocord[1],'.csv',sep='')
+file_name <- paste('data_working/data_sum_',palaeocord[1],'_',sp,'.csv',sep='')
 
 write.table(data_sum, file = file_name,col.names = TRUE,row.names = FALSE, sep = '\t')   
 
@@ -170,4 +177,5 @@ pdf(plot_name_pal,height = 4.1, width = 3.6)
 plot(data_test[,'paleolong'],data_test[,'paleolat'],pch = 16,main = paste(data_all[ind[1],'GENUS'],data_all[ind[1],'SPECIES'],'\n',palaeocord),xlim = c(-20,60),ylim = c(0,80),xlab = 'Long now',ylab = 'Lat now')
 dev.off()
 
-write.table(data_test, file = "data_working/data_test.csv",col.names = TRUE,row.names = FALSE, sep = '\t')   
+file_name <- paste("data_working/data_test.csv")
+write.table(data_test, file = file_name,col.names = TRUE,row.names = FALSE, sep = '\t')   

@@ -42,6 +42,7 @@ for (sk in 1:length(un_orders)){
   ind <- which(data_sum[,'ORDER']==order_now)  
   data_now <- data_sum[ind,]
   
+  
   if (dim(data_now)[1]>=min_points){
     #scatterplots for the appendix, select remove zeros = TRUE
     
@@ -54,7 +55,7 @@ for (sk in 1:length(un_orders)){
     plot(data_now[,'sp_duration'],data_now[,'sp_area_square'],pch=16,xlab = 'Duration of taxa, Myr',ylab = 'Range area, Mkm2',main = order_now)
     dev.off()
     
-    if (sd(log10(data_now[, "sp_duration"]))>0){
+    if (sd(log10(data_now[, "sp_area_square"]))>0){
       pdf(file_now2, width = 4, height = 4.5)
       plot(log10(data_now[,'sp_duration']),log10(data_now[,'sp_area_square']),pch=16,xlab = 'log10 (Duration of taxa, Myr)',ylab = 'log10 (Range area, Mkm2)',main = order_now)
       cc <- round(cor(log10(data_now[,'sp_duration']),log10(data_now[,'sp_area_square'])),digits = 2)

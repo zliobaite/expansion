@@ -1,8 +1,11 @@
 # 2023 03 16 I.Zliobaite
 
-palaeocord <- 'MULLER2022'
+#palaeocord <- 'MULLER2022'
+palaeocord <- 'MERDITH2021'
+sp <- 'species'
+#sp <- 'genera'
 
-file_name <- paste('data_working/data_sum_',palaeocord[1],'.csv',sep='')
+file_name <- paste('data_working/data_sum_',palaeocord[1],'_',sp,'.csv',sep='')
 
 data_sum <- read.csv(file_name, header = TRUE, sep = "\t")
 
@@ -335,5 +338,7 @@ for (sk in 1:length(un_orders)){
 colnames(results_duration) <- c('Order','Nsp','InterceptSemilog','SlopeSemilog','R2Semilog','IntereptPlain','SlopePlain','R2Plain','InterceptLoglog','SlopeLoglog','R2Loglog','BestModel','R2Best')
 colnames(results_range) <- c('Order','Nsp','InterceptSemilog','SlopeSemilog','R2Semilog','InterceptSemilog2','SlopeSemilog2','R2Semilog2','IntereptPlain','SlopePlain','R2Plain','IntereptPlain2','SlopePlain2','R2Plain2','InterceptLoglog','SlopeLoglog','R2Loglog','BestModel','R2Best')
 
-write.table(results_duration, file = 'outputs/law_duration_results.csv',col.names = TRUE,row.names = FALSE, sep = '\t')   
-write.table(results_range, file = 'outputs/law_range_results.csv',col.names = TRUE,row.names = FALSE, sep = '\t')   
+file1 <- paste('outputs/law_duration_results_',palaeocord,'.csv',sep = '')
+file2 <- paste('outputs/law_range_results_',palaeocord,'_',sp,'.csv',sep = '')
+write.table(results_duration, file = file1,col.names = TRUE,row.names = FALSE, sep = '\t')   
+write.table(results_range, file = file2,col.names = TRUE,row.names = FALSE, sep = '\t')   

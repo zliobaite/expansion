@@ -58,6 +58,10 @@ un_sp <- unique(data_all[,'genusspecies'])
 print('No. unique taxa')
 print(length(un_sp))
 
+library(splancs) # for convex hull
+library(geosphere)
+
+
 data_sum <- c()
 
 for (sk in 1:length(un_sp)){
@@ -88,12 +92,45 @@ for (sk in 1:length(un_sp)){
   sp_area_square <- diff_lat*diff_long*111*111/1000000
   #sp_range_width<- sqrt(sp_area_el)
   sp_range_width <- sqrt(sp_area_square)
+  
+  
+  if (length(ind_sp_loc)==1){
+    sp_area_chull <- 0
+    sp_area_geosphere <- 0
+    
+  }else{
+    coords_now <- cbind(data_all[ind_sp_loc,'LONG'],data_all[ind_sp_loc,'LAT'])
+    coords_hull <- coords_now[chull(coords_now),]
+    
+    if (length(coords_hull)==2){
+      sp_area_chull <- 0
+      sp_area_geosphere <- 0
+      
+    }else{
+      sp_area_chull <- areapl(coords_hull)*111*111/1000000    
+      
+      #in m2 then divide
+      sp_area_geosphere <- geosphere::areaPolygon(coords_hull)
+      sp_area_geosphere <- sp_area_geosphere/1000000/1000000
+    }
+    
+    
+  }
+  
+  #sp_area_square <- sp_area_geosphere
+  #sp_range_width <- sqrt(sp_area_square)
 
+  #if ((sp_area_square>0) & (sp_area_geosphere==0)){
+  #  print(data_all[ind_sp_loc,c('genusspecies','LONG','LAT')])
+  #  print(diff_long)
+  #  print(diff_lat)
+  #}
+  
   data_sp <- data_all[ind_sp_loc[1],c('SIDNUM','ORDER','FAMILY','SUBFAMILY','GENUS','SPECIES','genusspecies','BODYMASS','TCRWNHT','CROWNTYP')]
-  data_sum <- rbind(data_sum, c(data_sp,sp_now,no_loc,no_countries,sp_duration,max_mid_age,min_mid_age,sp_area_square,sp_area_el,sp_range_width,max_lat,min_lat,max_long,min_long,duration_peak))
+  data_sum <- rbind(data_sum, c(data_sp,sp_now,no_loc,no_countries,sp_duration,max_mid_age,min_mid_age,sp_area_square,sp_area_el,sp_range_width,sp_area_chull,sp_area_geosphere,max_lat,min_lat,max_long,min_long,duration_peak))
 }
 
-colnames(data_sum) <- c('SIDNUM','ORDER','FAMILY','SUBFAMILY','GENUS','SPECIES','genusspecies','BODYMASS','TCRWNHT','CROWNTYP','sp_now','no_loc','no_countries','sp_duration','max_mid_age','min_mid_age','sp_area_square','sp_area_el','sp_range_width','max_lat','min_lat','max_long','min_long','duration_peak')
+colnames(data_sum) <- c('SIDNUM','ORDER','FAMILY','SUBFAMILY','GENUS','SPECIES','genusspecies','BODYMASS','TCRWNHT','CROWNTYP','sp_now','no_loc','no_countries','sp_duration','max_mid_age','min_mid_age','sp_area_square','sp_area_el','sp_range_width','sp_area_chull','sp_area_geosphere','max_lat','min_lat','max_long','min_long','duration_peak')
 
 write.table(data_sum, file = "data_working/data_sum.csv",col.names = TRUE,row.names = FALSE, sep = '\t')   
 data_sum <- read.csv('data_working/data_sum.csv', header = TRUE, sep = "\t")
