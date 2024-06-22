@@ -253,8 +253,8 @@ intercept_fos <- paste('intercept',round(cf[1],digits = 3))
 slope_fos <- paste('slope',round(cf[2],digits = 3))
 
 
-pdf('fig_law_simulation.pdf', width = 4, height = 4.5)
-plot(law_law_live[,1],log10(law_law_live[,2]),pch=16,cex = 0.7,xlab = 'time, Myr',ylab = 'log10 (Proportion of species surviving)',main = 'Simulation',xlim = c(0,18),ylim = c(-4,0),col='darkgrey')
+pdf('fig_law_simulation1.pdf', width = 4, height = 4.5)
+plot(law_law_live[,1],log10(law_law_live[,2]),pch=16,cex = 0.7,xlab = 'time, Myr',ylab = 'log10 (Proportion of species surviving)',main = 'Simulation1',xlim = c(0,18),ylim = c(-4,0),col='darkgrey')
 #points(law_law_livefos[,1],log10(law_law_livefos[,2]),pch=16,cex = 0.7,col='grey')
 points(law_law_fos[,1],log10(law_law_fos[,2]),pch=16,cex = 0.7,col='black')
 abline(fit_law_live,col='darkgrey')
